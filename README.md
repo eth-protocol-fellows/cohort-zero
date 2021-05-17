@@ -5,6 +5,8 @@ This repository is for organizing the first cohort of the "Core Developer Appren
 - Announcement Blog Post: https://blog.ethereum.org/2021/05/13/core-dev-apprenticeship/
 - [Program Details](./program-details.md)
 
+Come [join us in the R&D Discord](https://discord.gg/2sBGYZtv)
+
 ## Contributing
 
 You are encouraged to contribute to improving the information in this repository.  The suggested way to do this is via a pull request.
