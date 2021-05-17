@@ -6,6 +6,11 @@ This repository is for organizing the first cohort of the "Core Developer Appren
 - Program Details: https://notes.ethereum.org/RamEyPIeRQm0Hs8TrWU-8g?view
 
 
+## Suggested Reading
+
+TODO
+
+
 ## FAQ
 
 TODO
