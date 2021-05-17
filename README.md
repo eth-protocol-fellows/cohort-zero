@@ -19,7 +19,9 @@ You are encouraged to contribute to improving the information in this repository
 
 ## Suggested Reading
 
-TODO
+- Yellow Paper: https://ethereum.github.io/yellowpaper/paper.pdf  (accompanying cheat sheet: [Cheat sheet link](https://github.com/benjaminion/YellowPaper_CheatSheet/blob/master/YPCheatSheet.pdf))
+- Research Forums: https://ethresear.ch/
+- EIPS: https://eips.ethereum.org/
 
 
 ## FAQ
