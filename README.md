@@ -17,13 +17,6 @@ You are encouraged to contribute to improving the information in this repository
 4. Profit!
 
 
-## Suggested Reading
-
-- Yellow Paper: https://ethereum.github.io/yellowpaper/paper.pdf  (accompanying cheat sheet: [Cheat sheet link](https://github.com/benjaminion/YellowPaper_CheatSheet/blob/master/YPCheatSheet.pdf))
-- Research Forums: https://ethresear.ch/
-- EIPS: https://eips.ethereum.org/
-
-
 ## Participate
 
 Program participation is not limited to those that are officially selected.  Everything that happens during the program will happen out in the open.
