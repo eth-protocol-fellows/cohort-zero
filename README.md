@@ -45,3 +45,8 @@ Program Outline:
     - Yes. There are no hard restrictions on how many hours you must put towards the program.  The amount of time you will need to invest is going to depend on your current level of knowledge and what project you choose to pursue.  It will likely be difficult to be successful in the program if you are unable to commit at least 20 hours per week.
 - **I don't know much about ______________.  Can I still apply?**
     - Yes. Applicants are expected to have gaps in their knowledge.  You should still read through the [program details](./program-details.md) to get a sense for what type of prior knowledge you should be working towards to be successful in the program.
+- **What happens after the 4 months is complete?**
+    - Assuming you are "successful" in the program we will work to continue "enabling" you to focus your effort on the protocol.  This could be continued "grant" style funding, helping you find a job on a team that's working on something interesting to you, or whatever it is that we can help with to keep you working with us.
+If the program shows promise then we'll probably try to rope you into helping out with the next cohort.
+- **Will funding be in ETH or Fiat?**
+    - ETH or Fiat should both be available.
