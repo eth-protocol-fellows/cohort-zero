@@ -16,6 +16,11 @@ Here are some starting points for learning about the Ethereum protocol.
 - Write Up on Hexary Trie by ftruzzi: https://gist.github.com/ftruzzi/fe6c6735dbbfafa4994985879254a871
 - Ethereum Glossary of Terms by Piper: https://github.com/ethereum/stateless-ethereum-specs/wiki/Glossary
 
-## Signal your interest
+## Signal Your Intent
 
-Found a few topics that you are interested in? Signal your interest [here](https://docs.google.com/spreadsheets/d/1xQQ37juWCKrv6F1YDnHX0p4R2HCXlplY3WznZ0m-4fQ/edit?usp=sharing). 
+To indicate your interest, please do the following:
+
+1. Fork the repo.
+2. For the topics that you are interested in, add your name and your discord channel to the corresponding .md files.
+3. If the research topic that you are interested in does not exist, please make a .md file for it.
+4. Submit your PR.
