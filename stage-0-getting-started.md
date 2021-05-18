@@ -15,3 +15,7 @@ Here are some starting points for learning about the Ethereum protocol.
 - EIPS: https://eips.ethereum.org/
 - Write Up on Hexary Trie by ftruzzi: https://gist.github.com/ftruzzi/fe6c6735dbbfafa4994985879254a871
 - Ethereum Glossary of Terms by Piper: https://github.com/ethereum/stateless-ethereum-specs/wiki/Glossary
+
+## Signal your interest
+
+Found a few topics that you are interested in? Signal your interest [here](https://docs.google.com/spreadsheets/d/1xQQ37juWCKrv6F1YDnHX0p4R2HCXlplY3WznZ0m-4fQ/edit?usp=sharing). 
