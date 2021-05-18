@@ -46,7 +46,7 @@ Program Outline:
 - **I don't know much about ______________.  Can I still apply?**
     - Yes. Applicants are expected to have gaps in their knowledge.  You should still read through the [program details](./program-details.md) to get a sense for what type of prior knowledge you should be working towards to be successful in the program.
 - **What happens after the 4 months is complete?**
-    - I'll be looking for how to continue "enabling" you to focus your effort on the protocol.  This could be continued "grant" style funding, helping you find a job on a team that's working on something interesting to you, or whatever it is that I can help with to keep you working with us.
+    - Assuming you are "successful" in the program we will work to continue "enabling" you to focus your effort on the protocol.  This could be continued "grant" style funding, helping you find a job on a team that's working on something interesting to you, or whatever it is that we can help with to keep you working with us.
 If the program shows promise then we'll probably try to rope you into helping out with the next cohort.
 - **Will funding be in ETH or Fiat?**
     - I believe either will be an option.
