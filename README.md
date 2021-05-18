@@ -49,4 +49,4 @@ Program Outline:
     - Assuming you are "successful" in the program we will work to continue "enabling" you to focus your effort on the protocol.  This could be continued "grant" style funding, helping you find a job on a team that's working on something interesting to you, or whatever it is that we can help with to keep you working with us.
 If the program shows promise then we'll probably try to rope you into helping out with the next cohort.
 - **Will funding be in ETH or Fiat?**
-    - I believe either will be an option.
+    - ETH or Fiat should both be available.
