@@ -1,11 +1,16 @@
 # Simon's notes
 
 ## Topics of Interest
-- Cryptography
-- EIP1559
+- Cryptography / Privacy
+    - Code obfuscation
+    - ZK-s[nt]arks
+    - Secret shared validators
+    - Polynomial commitments
+    - Homomorphic encryption
+- Cryptoeconomics
+    - EIP1559
+    - POS Consensus
+- ETH2
+    - tooling
+    - Phase 2
 - EVM
-- Polynomial Commitments
-- ETH2 Tooling
-- Phase 2
-- POS Consensus
-- Secret Shared Validators
