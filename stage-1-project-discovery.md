@@ -34,7 +34,7 @@ First you will be hunting for possible projects. You should take a lot of notes.
     - Even if someone else has already done this, try to do so again using your own words as this is a good way to gauge whether you understand the topic.
 - Anything else that feels relevant.
 
-If you haven't already, fork this repository.  You are free to organize your work however you wish, as long as you do so in a public way.  I'll recommend that you create a document under `./notes/<your-name>.md` where you can take notes and commit.
+If you haven't already, fork this repository. You are free to organize your work however you wish, as long as you do so in a public way.  I'll recommend that you create a document under `./notes/<your-name>.md` where you can take notes and commit.
 
 ### 2. Aggregating a master list
 
@@ -64,3 +64,7 @@ Here are a few places to start:
 
 - [State Expiry](./notes/piper.md#state-expiry)
     - *this is just here as a very roughly sketched out example...*
+- [Off-chain communication](./notes/virepri.md#1-off-chain-communication)
+- [Scheduled Invocations](./notes/virepri.md#2-contract-scheduled-invocations)
+- [Privacy in transacting](./notes/virepri.md#3-privacy-in-transacting--executing)
+    - *this is currently a stub*

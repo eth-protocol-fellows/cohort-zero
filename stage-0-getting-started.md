@@ -18,6 +18,7 @@ Here are some starting points for learning about the Ethereum protocol.
 
 - Yellow Paper: https://ethereum.github.io/yellowpaper/paper.pdf  (accompanying cheat sheet: [Cheat sheet link](https://github.com/benjaminion/YellowPaper_CheatSheet/blob/master/YPCheatSheet.pdf))
 - Research Forums: https://ethresear.ch/
+- Fellowship of Ethereum Magicians: https://ethereum-magicians.org/
 - EIPS: https://eips.ethereum.org/
 - Write Up on Hexary Trie by ftruzzi: https://gist.github.com/ftruzzi/fe6c6735dbbfafa4994985879254a871
-- Ethereum Glossary of Terms by Piper: https://github.com/ethereum/stateless-ethereum-specs/wiki/Glossary
+- JSON-RPC Documentation(i.e How to interface with nodes): https://eth.wiki/json-rpc/API
