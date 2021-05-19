@@ -64,3 +64,7 @@ Here are a few places to start:
 
 - [State Expiry](./notes/piper.md#state-expiry)
     - *this is just here as a very roughly sketched out example...*
+- [Off-chain communication](./notes/virepri.md#1-off-chain-communication)
+- [Scheduled Invocations](./notes/virepri.md#2-contract-scheduled-invocations)
+- [Privacy in transacting](./notes/virepri.md#3-privacy-in-transacting--executing)
+    - *this is currently a stub*
