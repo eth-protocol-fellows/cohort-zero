@@ -34,7 +34,7 @@ First you will be hunting for possible projects. You should take a lot of notes.
     - Even if someone else has already done this, try to do so again using your own words as this is a good way to gauge whether you understand the topic.
 - Anything else that feels relevant.
 
-If you haven't already, fork this repository.  You are free to organize your work however you wish, as long as you do so in a public way.  I'll recommend that you create a document under `./notes/<your-name>.md` where you can take notes and commit.
+If you haven't already, fork this repository. You are free to organize your work however you wish, as long as you do so in a public way.  I'll recommend that you create a document under `./notes/<your-name>.md` where you can take notes and commit.
 
 ### 2. Aggregating a master list
 
