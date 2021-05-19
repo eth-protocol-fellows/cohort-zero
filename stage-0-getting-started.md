@@ -1,6 +1,13 @@
 # Stage 0: Getting Started
 
+> Next: [Stage 1: Project Discovery](./stage-1-project-discovery.md)
+
 Applications are being accepted but the program hasn't officially begun...
+
+
+## Join Us!
+
+Come [join us in the R&D Discord](https://discord.gg/2sBGYZtv).  You can find us in the `#apprenticeship-program` channel.  Say hello!  Make sure you check out some of the other channels too.  There's a lot going on here.
 
 
 ## Suggested Reading
