@@ -7,7 +7,7 @@
 
 - Layer 2 Technologies
 - State Channels to prevent state bloat
-- Decentralized Staking Pools
+- PoS Mechanism
 - Underlying Network infrastructure of Ethereum
 
 ---
@@ -51,11 +51,35 @@
 ---
 ## State Channels to prevent state bloat
 
-[Todo]
+- One of the requirements of a good payment system involves high throughput of transactions, i.e people should not wait too long for their transaction to go through
+
+- However, the downside to having a high TPS, is that the hardware required to store such a large amount of transactions becomes more expensive and inaccessible to the regular end user
+
+- A consequence of this, directly, is larger node operators start to make a monopoly on node services
+
+- This also results in reduced decentralization and significant portions of the hash rate will be owned by corporations, very much the opposite of what was intended by a decentralized "everyone's network"
+
+- A Proposal could involve having state channels baked into the ethereum core protocol which would come with its own advantages, i.e
+
+	- Tuned performance
+	- Would lead to true decentralization of state channels
+	- Could be a stepping stone to truly stateless clients as highlighted [here](https://ethresear.ch/t/the-stateless-client-concept/172)
+
+
+- Much like the recent [EIP-2930](https://eips.ethereum.org/EIPS/eip-2930) that was introduced in the [Berlin Hard Fork](https://blog.ethereum.org/2021/03/08/ethereum-berlin-upgrade-announcement/), an EIP could be introduced that promotes users (that may transact many times) to make use of state channels and slashes gas costs as an incentive
+
+- The above potential EIP could be used in many cases like
+
+	- Governance, where many users transact in a short time with a voting contract
+
+	- IoT Devices that distribute certificates/data to other devices
+
+
+	- Decentralized Exchanges that depend on the security provided by mainnet and would benefit from reduced gas prices, example - [Raidex](https://raidex.io/)
 
 
 ---
-## Decentralized Staking Pools
+## PoS Mechanism
 [Todo]
 
 ---
