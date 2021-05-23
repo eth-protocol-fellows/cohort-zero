@@ -84,7 +84,60 @@
 
 ---
 ## Underlying Network infrastructure
-[Todo]
+
+
+- The bread and butter for the network's operation is [devp2p](https://github.com/ethereum/devp2p)
+
+- devp2p makes use of a set of network protocols, like libp2p
+- Unlike libp2p, devp2p was made for the ethereum network, and could be applied for a few similar use-cases as well
+
+- There are many implementations of the protocol, as highlighted [here](https://github.com/ethereum/devp2p#implementations)
+
+- There are 3 big pieces of devp2p:
+	1. The Node Record (What can you tell me about your node?)
+
+		- The node record essentially behaves like a node's business card. It tells you it's name (nodeId), where you can find it (IP(v4 & v6) address), and it's role in the organization (the network)
+
+		- There are multiple reasons as to why it is important to know all details about the node you are connecting to
+
+		- For example, while syncing an archive node, the node would need to connect to other archive nodes to sync state. It can only do this if it knows the type of node on the other end
+
+		- The structure of the node record can be found [here](https://github.com/ethereum/devp2p/blob/master/enr.md#record-structure)
+
+		- The node signs its record and broadcasts it to other nodes to initiate the connection. The process of signing and encoding the node record can be found [here](https://github.com/ethereum/devp2p/blob/master/enr.md#rlp-encoding)
+
+
+	2. The discovery protocol (How do I find nodes?)
+
+		- Due to the decentralization of routing, each node must maintain its own [DHT](https://docs.ipfs.io/concepts/dht/), that stores node records
+
+		- There are various types of packets that are sent to and fro between nodes to establish and secure the connection between them. Technical spec regarding the packets can be found [here](https://github.com/ethereum/devp2p/blob/master/discv4.md#ping-packet-0x01)
+
+		- The records are stored in a [Kademlia table](####Kademlia-tables) 
+
+		- As messages are exchanged between nodes, buckets that store node Ids is filled up from least-recently seen to most-recently seen
+
+		- These buckets are DoS resistant due to the design of the bucket structure
+
+		- As time progresses, the Nodes DHT starts to fill up with "nearby" nodes, and can easily connect to nodes which are "active"
+  
+	3. The transport protocol (How do I send information to other nodes?)
+
+		- RLPx is used as the transport protocol to facilitate secure communication between nodes
+
+		- Since each node holds a private key, it is used for signing messages that prove its identity, which is highlighted [here](https://github.com/ethereum/devp2p/blob/master/rlpx.md#initial-handshake)
+
+		- Framing is a method of encapsulating data that is to be communicated. It is primarily used to support multiplexing multiple protocols over one connection. Technical spec [here](https://github.com/ethereum/devp2p/blob/master/rlpx.md#framing)
+
+		- Any message that is sent after the handshake comes with a "capability", which is used to denote the functionality associated with the nodes
+
+		- The multiplexing of connections is done based off the message ID, and each capability is given only as much message id space as it needs
+
+Relevant Links:
+
+1. [RLPx implementation in Rust](https://docs.rs/rlpx/0.4.1/rlpx/)
+2. [Devp2p implementation in Rust](https://github.com/rust-ethereum/sentry)
+3. [Whisper Protocol](https://geth.ethereum.org/docs/whisper/whisper-overview)
 
 ---
 ### Extras
@@ -98,3 +151,15 @@
 - They do this so as to extend the chain, thereby reducing the chance of their mined block being an uncle block, and hence collect profits
 - Unfortunately, this leads to transactions being piled up and eventually drives up gas prices a little bit (which also favors miners)
 - An interesting thread realting to this, [here](https://ethresear.ch/t/a-proposal-to-alleviate-the-empty-block-problem/6191/9)
+
+#### Kademlia tables
+
+
+- My thoughts after reading this [paper](https://pdos.csail.mit.edu/~petar/papers/maymounkov-kademlia-lncs.pdf)
+- A Kademlia table is like a binary tree, with each node as a leaf
+- The node id (ENR) is used to find the spot of the given node within the tree
+- The protocol ensures that each node knows about other nodes that belong to its subtrees, if they exist
+- This leads to a quick search for nodes
+- An advantage of this protocol, is that it enables nodes to query any node in the network, or multiple nodes, at the same time so that it can find the fastest route to the destination node
+- Kademlia proposes the use of XOR to find the "distance" between 2 nodes
+- This leads to an efficient check to decide the nodes you should connect to for a quick sync
