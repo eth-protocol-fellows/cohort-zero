@@ -2,7 +2,7 @@
 
 > WORK IN PROGRESS: none of this should be considered final
 
-> Previous: [Stage 0: Getting Started](./stage-0-getting-started.md) | Next: [Stage 1: Project Discovery](./stage-1-project-discovery.md)
+> Previous: [Stage 0: Getting Started](./stage-0-getting-started.md) | Next: [Stage 2: Project Exploration](./stage-2-project-exploration.md)
 
 In this stage you will work to gain a high level overview of what sort of
 projects there are to work on.  The goal is to avoid diving too deep on any
