@@ -27,6 +27,6 @@ Here are some starting points for learning about the Ethereum protocol.
 - Fellowship of Ethereum Magicians: https://ethereum-magicians.org/
 - EIPS: https://eips.ethereum.org/
 
-### Future of Ethereum
+### Future of Ethereum 
 - Block Chain Scaliability: https://vitalik.ca/general/2021/05/23/scaling.html
- 
+- Stateless Ethereum: https://blog.ethereum.org/2019/12/30/eth1x-files-state-of-stateless-ethereum/
