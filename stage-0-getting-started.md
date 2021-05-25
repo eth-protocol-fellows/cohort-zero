@@ -16,9 +16,17 @@ Here are some starting points for learning about the Ethereum protocol.
 
 > Please feel free to open a pull request expanding this list.
 
+### Ethereum Basics 
 - Yellow Paper: https://ethereum.github.io/yellowpaper/paper.pdf  (accompanying cheat sheet: [Cheat sheet link](https://github.com/benjaminion/YellowPaper_CheatSheet/blob/master/YPCheatSheet.pdf))
+- Recursive Length Prefix: https://medium.com/coinmonks/data-structure-in-ethereum-episode-1-recursive-length-prefix-rlp-encoding-decoding-d1016832f919
+- Write Up on Hexary Trie by ftruzzi: https://gist.github.com/ftruzzi/fe6c6735dbbfafa4994985879254a871
+- JSON-RPC Documentation(i.e How to interface with nodes): https://eth.wiki/json-rpc/API
+
+### Research and EIPS
 - Research Forums: https://ethresear.ch/
 - Fellowship of Ethereum Magicians: https://ethereum-magicians.org/
 - EIPS: https://eips.ethereum.org/
-- Write Up on Hexary Trie by ftruzzi: https://gist.github.com/ftruzzi/fe6c6735dbbfafa4994985879254a871
-- JSON-RPC Documentation(i.e How to interface with nodes): https://eth.wiki/json-rpc/API
+
+### Future of Ethereum
+- Block Chain Scaliability: https://vitalik.ca/general/2021/05/23/scaling.html
+ 
