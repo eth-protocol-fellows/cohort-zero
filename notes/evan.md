@@ -2,7 +2,7 @@
     
 # Topics of Interest
 - Cryptography
-- Sharding
+- Web3
 - Node development
 - Onboarding, User Experience (UI/UX)
 - Solidity Testing Environments
