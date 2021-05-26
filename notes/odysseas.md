@@ -12,9 +12,10 @@
           - [MEV...wat do](https://pdaian.com/blog/mev-wat-do/)
         - Ethereum Research
           - [MEV Auctions Will Kill Ethereum](https://ethresear.ch/t/mev-auctions-will-kill-ethereum/9060)
-        - Podcasts 
+        - Videos 
           - [Paradigm x Hasu](https://www.youtube.com/watch?v=7FY41j_uCLI&t=1709s)
           - [Bankless](https://www.youtube.com/watch?v=rOVz7dOrGyY&t)
+          - [MEV is Fundamental to Permissionless Systems | Phil Daian](https://www.youtube.com/watch?v=-3LIHehjzBA)
     - **_L2 scaling_**
       - [Scaling Ethereum on L2: Optimistic Rollups and ZK-Rollups](https://medium.com/interdax/ethereum-l2-optimistic-and-zk-rollups-dffa58870c93)
       - [SoK: Layer-Two Blockchain Protocols](https://eprint.iacr.org/2019/360.pdf)
