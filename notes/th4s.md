@@ -10,6 +10,7 @@ use block witnesses to validate the resulting state root.
 ### Resources
 
 - Starting point: 
+    - https://hackmd.io/@vbuterin/state_size_management
     - https://blog.ethereum.org/2019/12/30/eth1x-files-state-of-stateless-ethereum/
     - https://ethresear.ch/t/an-updated-roadmap-for-stateless-ethereum/9046
     - https://dankradfeist.de/ethereum/2021/02/14/why-stateless.html
