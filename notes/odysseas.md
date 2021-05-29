@@ -1,0 +1,22 @@
+- **Metadata**:
+  - github: @odyslam
+  - twitter: @odysseas_lam
+ 
+ - **Resources**: 
+    -  **_MEV_**
+        - Articles
+          - [DYOR Crypto wiki](https://dyor-crypto.fandom.com/wiki/Miner_Extractable_Value_(MEV)#:~:text=%22MEV%20stands%20for%20Miner%20Extractable%20Value.&text=This%20is%20what%20we%20call,opportunities%20in%20the%20Ethereum%20mempool.)
+          - [Paradigm Research](https://research.paradigm.xyz/MEV)
+          - [Escaping the dark forest](https://samczsun.com/escaping-the-dark-forest/)
+          - [Ethereum is a Dark forest](https://medium.com/@danrobinson/ethereum-is-a-dark-forest-ecc5f0505dff)
+          - [MEV...wat do](https://pdaian.com/blog/mev-wat-do/)
+        - Ethereum Research
+          - [MEV Auctions Will Kill Ethereum](https://ethresear.ch/t/mev-auctions-will-kill-ethereum/9060)
+        - Videos 
+          - [Paradigm x Hasu](https://www.youtube.com/watch?v=7FY41j_uCLI&t=1709s)
+          - [Bankless](https://www.youtube.com/watch?v=rOVz7dOrGyY&t)
+          - [MEV is Fundamental to Permissionless Systems | Phil Daian](https://www.youtube.com/watch?v=-3LIHehjzBA)
+    - **_L2 scaling_**
+      - [Scaling Ethereum on L2: Optimistic Rollups and ZK-Rollups](https://medium.com/interdax/ethereum-l2-optimistic-and-zk-rollups-dffa58870c93)
+      - [SoK: Layer-Two Blockchain Protocols](https://eprint.iacr.org/2019/360.pdf)
+      - [SoK: Communication Across Distributed Ledgers](https://eprint.iacr.org/2019/1128.pdf)
