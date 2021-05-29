@@ -5,7 +5,7 @@ This repository is for organizing the first cohort of the "Core Developer Appren
 - Announcement Blog Post: https://blog.ethereum.org/2021/05/13/core-dev-apprenticeship/
 - [Program Details](./program-details.md)
 
-Come [join us in the R&D Discord](https://discord.gg/2sBGYZtv)
+Come [join us in the R&D Discord](https://discord.gg/n9EG54Ez)
 
 ## Contributing
 
@@ -50,3 +50,11 @@ Program Outline:
 If the program shows promise then we'll probably try to rope you into helping out with the next cohort.
 - **Will funding be in ETH or Fiat?**
     - ETH or Fiat should both be available.
+- **Will there be an interview process?**
+    - Yes.  There will be an initial round of filtering and then we'll do interviews.
+- **How many applicants will be accepted in the first cohort?**
+    - For this first cohort, the number that we formally accept is going to be very small.  We don't have an exact number but very likely it will be less than 6.  This is the first time we're doing this.  There's going to be things that we get wrong.  There's going to be stuff that we figure out as we go.  If the program is working, we'll start the second cohort midway through the program so that there is overlap and the first cohort can help onboard the second cohort. 
+- **Can I still participate even if I am not selected in this cohort?**
+    - Yes. Being "selected" into the program is really just the group that we'll be working directly with to provide funding.  The program is going to happen in the "open" meaning that anyone who wants to participate can be a part of the program on the same footing as those that are "selected".
+We're looking into how we can provide some support for those that don't get selected but who choose to be a part of the program anyway.  There will probably be an opportunity for those that aren't selected, but who do need funding to do this, to apply for a grant.
+
