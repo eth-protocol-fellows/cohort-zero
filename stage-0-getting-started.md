@@ -23,6 +23,7 @@ Here are some starting points for learning about the Ethereum protocol.
 - Write Up on Hexary Trie by ftruzzi: https://gist.github.com/ftruzzi/fe6c6735dbbfafa4994985879254a871
 - JSON-RPC Documentation(i.e How to interface with nodes): https://ethereum.org/en/developers/docs/apis/json-rpc/
 - Ecosystem Portal: https://123eth.org/
+- Basic technical details of Ethereum Blockchain Protocol(Vitalik Buterin): https://youtu.be/gjwr-7PgpN8
 
 ### Research and EIPS
 - Research Forums: https://ethresear.ch/
