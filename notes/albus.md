@@ -7,3 +7,4 @@
 * https://ethereum-magicians.org/t/increasing-address-size-from-20-to-32-bytes
 * https://hackmd.io/@vbuterin/selfdestruct
 * https://ethresear.ch/t/resurrection-conflict-minimized-state-bounding-take-2/8739
+* https://dankradfeist.de/ethereum/2020/06/16/kate-polynomial-commitments.html
