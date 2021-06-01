@@ -6,3 +6,4 @@
 * https://ethereum-magicians.org/t/proposed-verkle-tree-scheme-for-ethereum-state
 * https://ethereum-magicians.org/t/increasing-address-size-from-20-to-32-bytes
 * https://hackmd.io/@vbuterin/selfdestruct
+* https://ethresear.ch/t/resurrection-conflict-minimized-state-bounding-take-2/8739
