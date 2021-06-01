@@ -8,3 +8,4 @@
 * https://hackmd.io/@vbuterin/selfdestruct
 * https://ethresear.ch/t/resurrection-conflict-minimized-state-bounding-take-2/8739
 * https://dankradfeist.de/ethereum/2020/06/16/kate-polynomial-commitments.html
+* https://notes.ethereum.org/@vbuterin/witness_gas_cost_2
