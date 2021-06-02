@@ -55,7 +55,6 @@ Introduce some sort of overlay node, whose job is neither consensus nor executio
 1. Geth now offers the freezer which is really cool. A very simple read-only, append-only, rlp-encoded database lagging 90k blocks behind HEAD. Makes it
    simple to extract transaction data directly from disk.
 2. Erigon (TurboGeth) now has some simpler state storage, which improves efficiency. Probably interesting.
-3. How intertwined is the Ethereum state? How many transactions do I need to process, in order to be able to process a new transation on average. Can we do this
-   on the fly? Probably not! Is this a step back (c.f. Bitcoin UTXO)? Every token contract stores state for all token holders, which is bad, so we would have to break contract state
-   into chunks. Probably very complicated. Reminds me of plasma stuff somehow.
+3. How intertwined is the Ethereum state? How many transactions do I need to process, in order to be able to process a new transation on average.
+Can we do this on the fly? Probably not! Is this a step back (c.f. Bitcoin UTXO)? Every token contract stores state for all token holders, which is bad, so we would have to break contract state into chunks. Probably very complicated. Reminds me of plasma stuff somehow.
 4. Has this something to do with light clients? Should we split nodes into execution and query nodes?
