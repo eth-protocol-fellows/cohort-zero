@@ -19,6 +19,7 @@ Here are some starting points for learning about the Ethereum protocol.
 ### Ethereum Basics 
 - Conceptual Overview: https://ethereum.stackexchange.com/questions/268/ethereum-block-architecture
 - Ecosystem Portal: https://123eth.org/
+- Basic technical details of Ethereum Blockchain Protocol(Vitalik Buterin): https://youtu.be/gjwr-7PgpN8
 
 #### Yellow Paper
 - Yellow Paper: https://ethereum.github.io/yellowpaper/paper.pdf  (accompanying cheat sheet: [Cheat sheet link](https://github.com/benjaminion/YellowPaper_CheatSheet/blob/master/YPCheatSheet.pdf))
