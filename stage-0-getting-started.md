@@ -19,7 +19,7 @@ Here are some starting points for learning about the Ethereum protocol.
 ### Ethereum Basics 
 - Conceptual Overview: https://ethereum.stackexchange.com/questions/268/ethereum-block-architecture
 - Ecosystem Portal: https://123eth.org/
-- Basic technical details of Ethereum Blockchain Protocol(Vitalik Buterin): https://youtu.be/gjwr-7PgpN8
+- Basic technical details of Ethereum Blockchain Protocol (Vitalik Buterin): https://youtu.be/gjwr-7PgpN8
 
 #### Yellow Paper
 - Yellow Paper: https://ethereum.github.io/yellowpaper/paper.pdf  (accompanying cheat sheet: [Cheat sheet link](https://github.com/benjaminion/YellowPaper_CheatSheet/blob/master/YPCheatSheet.pdf))
@@ -44,9 +44,15 @@ Here are some starting points for learning about the Ethereum protocol.
 
 ### Future of Ethereum 
 #### Scaling 
-   - Block Chain Scaliability: https://vitalik.ca/general/2021/05/23/scaling.html
+   - Block Chain Scalability: https://vitalik.ca/general/2021/05/23/scaling.html
    - Stateless Ethereum: https://blog.ethereum.org/2019/12/30/eth1x-files-state-of-stateless-ethereum/
    - Kate Commitments: https://hackmd.io/yqfI6OPlRZizv9yPaD-8IQ?view#Background
 
+#### Sharding
+   - Overview: https://ethereum.org/en/eth2/shard-chains/
+   - Why Sharding? (Vitalik Buterin): https://vitalik.ca/general/2021/04/07/sharding.html
+
 #### Proof of Stake
-- stub 
+   - Overview: https://ethereum.org/en/developers/docs/consensus-mechanisms/pos/
+   - Why Proof of Stake? (Vitalik Buterin): https://vitalik.ca/general/2020/11/06/pos2020.html
+   - The Merge: https://ethereum.org/en/eth2/merge/
