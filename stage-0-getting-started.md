@@ -44,16 +44,15 @@ Here are some starting points for learning about the Ethereum protocol.
 
 ### Future of Ethereum 
 #### Scaling 
-   - Block Chain Scaliability: https://vitalik.ca/general/2021/05/23/scaling.html
+   - Block Chain Scalability: https://vitalik.ca/general/2021/05/23/scaling.html
    - Stateless Ethereum: https://blog.ethereum.org/2019/12/30/eth1x-files-state-of-stateless-ethereum/
    - Kate Commitments: https://hackmd.io/yqfI6OPlRZizv9yPaD-8IQ?view#Background
 
 #### Sharding
    - Overview: https://ethereum.org/en/eth2/shard-chains/
-   - FAQ: https://eth.wiki/sharding/Sharding-FAQs
-   - Research Compendium: https://notes.ethereum.org/@serenity/H1PGqDhpm?type=view#External-links
+   - Why Sharding? (Vitalik Buterin): https://vitalik.ca/general/2021/04/07/sharding.html
 
 #### Proof of Stake
    - Overview: https://ethereum.org/en/developers/docs/consensus-mechanisms/pos/
-   - Why Proof of Stake? (Vitalik blog post): https://vitalik.ca/general/2020/11/06/pos2020.html
+   - Why Proof of Stake? (Vitalik Buterin): https://vitalik.ca/general/2020/11/06/pos2020.html
    - The Merge: https://ethereum.org/en/eth2/merge/
