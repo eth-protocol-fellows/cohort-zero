@@ -20,8 +20,8 @@ Ethereum portal client
 State Network DHT - Development Update #2
 - https://ethresear.ch/t/state-network-dht-development-update-2/9005
 
-Scalable gossip for state network
-- https://ethresear.ch/t/scalable-gossip-for-state-network/8958
+Doing Stateless Ethereum Right
+- https://notes.ethereum.org/mSOAdx_XT02MEqrt0f2CPA
 
 The winding road to functional light clients
 
@@ -29,11 +29,20 @@ The winding road to functional light clients
 https://snakecharmers.ethereum.org/the-winding-road-to-functional-light-clients/
 - part 2:
 https://snakecharmers.ethereum.org/the-winding-road-to-functional-light-clients-part-2/
+- part 3:
+https://snakecharmers.ethereum.org/the-winding-road-to-functional-light-clients-part-3/
 
 Testing Portal Network with trin & ddht
 - https://gist.github.com/carver/f3c26d9adb28ea2b4e5d5bbe42b4f4b7
 
-### 2. Witnesses
+### 2. Gossip
+Scalable gossip for state network
+- https://ethresear.ch/t/scalable-gossip-for-state-network/8958
+
+Scalable Transaction Gossip
+- https://ethresear.ch/t/scalable-transaction-gossip/8660
+
+### 3. Witnesses
 
 Ethereum Witness Protocol (wit)
 - https://github.com/ethereum/devp2p/blob/master/caps/wit.md
@@ -41,7 +50,7 @@ Ethereum Witness Protocol (wit)
 Redesign how witness gas costs work
 - https://notes.ethereum.org/@vbuterin/witness_gas_cost_2
 
-### 3. Beam Sync
+### 4. Beam Sync
 
 Intro to Beam Sync
 https://medium.com/@jason.carver/intro-to-beam-sync-a0fd168be14a
@@ -76,3 +85,17 @@ ReGenesis Plan:
 
 Regenesis Phase0:
 https://ethresear.ch/t/regenesis-phase0/8627
+
+
+## Problems to solve
+
+1. Alexandria DHT - current roadmap?
+2. Client prototypes for both state and chain history networks
+3. Client prototypes for gossip network? What is the current state of the specifications of the gossip network?
+4. Writing tests for block withess specifications ? Are specifications still in progress?
+5. Prototype for “bridge” from ETH DevP2P network
+
+## Questions
+
+1. What is the current roadmap and goals for `trin`?
+2. As some of the information online looks outdated and everything moves in a fast pace, what is the latest developement updates on "portal network" and lightweight stateless clients?
