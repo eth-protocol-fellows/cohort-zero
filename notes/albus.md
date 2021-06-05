@@ -5,6 +5,8 @@
 * https://ethresear.ch/t/resurrection-conflict-minimized-state-bounding-take-2/8739
 * https://hackmd.io/@vbuterin/state_expiry_paths
 * https://notes.ethereum.org/@vbuterin/witness_gas_cost_2
+* https://dankradfeist.de/ethereum/2021/02/14/why-stateless.html
+* https://github.com/ethereum/stateless-ethereum-specs/blob/master/portal-network.md
 
 ### KZG (Kate) commitments
 * https://dankradfeist.de/ethereum/2020/06/16/kate-polynomial-commitments.html
