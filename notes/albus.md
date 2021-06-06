@@ -9,11 +9,9 @@
 * [The Portal Network](https://github.com/ethereum/stateless-ethereum-specs/blob/master/portal-network.md)
 * [Doing Stateless Ethereum Right](https://notes.ethereum.org/mSOAdx_XT02MEqrt0f2CPA)
 
-### KZG (Kate) commitments
+### KZG (Kate) commitments and Verkle tries
 * [Kate polynomial commitments](https://dankradfeist.de/ethereum/2020/06/16/kate-polynomial-commitments.html)
-
-
-### Verkle tries
+* [Kate commitments in ETH](https://hackmd.io/yqfI6OPlRZizv9yPaD-8IQ)
 * [Verkle trie for Eth1 state](https://notes.ethereum.org/_N1mutVERDKtqGIEYc-Flw)
 * [Proposed Verkle tree scheme for Ethereum state](https://ethereum-magicians.org/t/proposed-verkle-tree-scheme-for-ethereum-state)
 
