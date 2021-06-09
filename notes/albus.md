@@ -1,3 +1,19 @@
+# Project ideas
+
+## Getting rid of SELFDESTRUCT
+
+There is a wish to remove or neuter the `SELFDESTRUCT` opcode. See [here](https://hackmd.io/@vbuterin/selfdestruct) for context. The reasons for getting rid of `SELFDESTRUCT` can be summarized as follows:
+
+* `SELFDESTRUCT` is not needed after [state expiry](https://hackmd.io/@vbuterin/state_expiry_paths). One of the reasons for having the ability to `SELFDESTRUCT` was to be able to remove state, but this is handled automatically with state expiry.
+* `SELFDESTRUCT` is the only opcode which causes an unbounded number of state objects to be altered in a single block. This operation is especially costly after migrating the state trie to a [Verkle trie](https://ethereum-magicians.org/t/proposed-verkle-tree-scheme-for-ethereum-state).
+* `SELFDESTRUCT` is the only opcode which can cause the code of a contract to change.
+* `SELFDESTRUCT` is the only opcode which can change other accounts’ balances without their consent.
+
+The aim of this project is to
+
+1. Do a comprehensive analysis on the contracts deployed on mainnet to identify where and how `SELFDESTRUCT` is used.
+2. Evaluate the different ways to get rid of `SELFDESTRUCT` with the above analysis in mind, and try to find out how the existing contracts may be affected.
+
 # Reading material
 
 ### State expiry / statelessness
