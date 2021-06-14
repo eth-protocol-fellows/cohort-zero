@@ -44,13 +44,19 @@ Stateless Ethereum is **not** a solution for the following:
 - Inactive state is never deleted, but must be "resurrected" via a witness. 
 
 There were 4 proposed expiry schemes, and core development has chosen the regenesis expiry scheme detailed below.
+
+### Solution B: Weak Statelessness
+
+Only block proposers are required to store state. All other nodes can verify blocks statelessly.
 ## Technical Milestones
 
-1. Witness Implementation
-2. Regenesis Expiry Scheme
-3. Portal Network
-4. Block Level Access Lists
-5. [Extending Address from 20 to 32 bytes](https://ethereum-magicians.org/t/increasing-address-size-from-20-to-32-bytes/5485)
+- Verkle Trie
+- Witness Implementation
+- Regenesis Expiry Scheme
+- Portal Network
+- Block Level Access Lists
+- [Extending Address from 20 to 32 bytes](https://ethereum-magicians.org/t/increasing-address-size-from-20-to-32-bytes/5485)
+
 ## [Witness Implementation](https://github.com/ethereum/stateless-ethereum-specs/wiki/Glossary#witnesses)
 
 **Goal**: validators can validate blocks without the burden of state 
@@ -192,10 +198,13 @@ June 2021:
 
 [Verkle Tree Spec](https://notes.ethereum.org/4BPLDyGnQ0WY12kVbOuvxw)
 
+[Proposed Verkle Tree Scheme for Ethereum State](https://notes.ethereum.org/_N1mutVERDKtqGIEYc-Flw)
+
 March 2021: [Verkle Multiproofs](https://notes.ethereum.org/nrQqhVpQRi6acQckwm1Ryg)
 
-February 2021: [Verkle Trie for Eth1 State](https://notes.ethereum.org/_N1mutVERDKtqGIEYc-Flw)
+February 2021: 
 
+[Verkle Trie for Eth1 State](https://notes.ethereum.org/_N1mutVERDKtqGIEYc-Flw)
 
 ### State Expiry
 
@@ -211,6 +220,8 @@ February 2021: [Resurrection-conflict-minimized state bounding](https://ethresea
 ### Extended Address Scheme
 
 February 2021: [Increasing Address Size from 20 to 32 bytes](https://ethereum-magicians.org/t/increasing-address-size-from-20-to-32-bytes/5485)
+
+January 2021: [Alternative bounded-state-friendly address scheme](https://ethresear.ch/t/alternative-bounded-state-friendly-address-scheme/8602)
 
 ### Stateless Clients 
 
