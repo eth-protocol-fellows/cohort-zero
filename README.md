@@ -25,6 +25,9 @@ Program participation is not limited to those that are officially selected. Ever
     - find us in the `#apprenticeship-program` channel.
 - Project instructions will be committed to this github repository.
 - Project deliverables will be posted in various open places such as this repository, the [Research forums](https://ethresear.ch/), the [Ethereum Magicians forums](https://ethereum-magicians.org/), github gists, hackmd documents, etc.
+- Weekly standup call
+    - What have you been working on? What are you currently working on? Is anything blocking your work?
+    - Call details to be published in the `#apprenticeship-program` channel
 
 In general, program participants are expected to take personal responsibility for their work. Working as a core developer requires you to be able to do self-directed work, and this program is no different. You should speak up and ask when you have questions, but you should also take responsibility for asking well informed questions.
 
