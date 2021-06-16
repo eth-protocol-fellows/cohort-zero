@@ -86,6 +86,8 @@ Here are a few examples of what **does not** constitute a well defined goal.
 
 The project should explore new territory or have a good reason to explore previously visited territory. Duplicating previous work should be avoided. The one exception to this would be projects that take a "rough sketch" of a solution and flesh it out into something more complete.
 
+> The main exception to this will be participants who are starting with very little domain knowledge. It is *ok* for your work to overlap prior existing work if this is how you learn.
+
 
 ### 3. Expand Your Knowledge
 
