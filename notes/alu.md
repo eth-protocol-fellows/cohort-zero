@@ -176,6 +176,24 @@ Solutions
     - transaction gossip: distributes new transactions to all nodes in network; depends on [transaction validation](https://github.com/ethereum/stateless-ethereum-specs/wiki/Glossary#transaction-validation)
     - block gossip: distributes new blocks; depends on [block validation](https://github.com/ethereum/stateless-ethereum-specs/wiki/Glossary#Block-Validation)
 
+## Meetings
+
+### June 16, 2021 
+- the plan is to attempt both state expiry and statelessness together
+- [roadmap](https://notes.ethereum.org/@vbuterin/verkle_tree_eip): 
+    - period 1 hard fork: 
+        - 2 state trees: frozen hexary Patricia tree and new Verkle tree
+    - address space extension: 
+        - more collision resistance (26 bytes for hash)
+        - backwards compatible: 32 byte addresses can interact with 20 byte addresses
+    - period 2 hard fork: 
+        - transition period 0 to a verkle tree, clients only need to store root hash
+- [verkle tree eip](https://notes.ethereum.org/@vbuterin/verkle_tree_eip):
+    - smaller witness sizes
+    - code verklization 
+- [state expiry eip](https://notes.ethereum.org/@vbuterin/verkle_tree_eip):
+    - prereqs: verkle tree + address expansion
+
 ## Resources
 
 ### General Statelessness
