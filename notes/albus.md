@@ -14,6 +14,18 @@ The aim of this project is to
 1. Do a comprehensive analysis on the contracts deployed on mainnet to identify where and how `SELFDESTRUCT` is used.
 2. Evaluate the different ways to get rid of `SELFDESTRUCT` with the above analysis in mind, and try to find out how the existing contracts may be affected.
 
+### Analysis of existing uses of `SELFDESTRUCT`
+
+Sub-tasks:
+* Extract the contract code of all contracts on Mainnet. Can use [Ethereum ETL](https://ethereum-etl.readthedocs.io/) for this.
+* Exclude all contracts that we can prove to be non-selfdestructable. We can prove that a contract is non-selfdestructable if
+  1. the contract code does not contain the `SELFDESTRUCT`, `DELEGATECALL` or `CALLCODE` opcodes, or
+  2. the contract code does not contain `SELFDESTRUCT`, and the set of contracts that are called with `DELEGATECALL` or `CALLCODE` can be determined statically, and are proven to be non-selfdestructable.
+* Use static analysis on the remaining contracts to classify the different ways `SELFDESTRUCT` are used. Possible things to check for are:
+  1. Under which conditions are `SELFDESTRUCT` executed?
+  2. Who is the receiver of the contract balance?
+* Identify upgradeable contracts, which are selfdestructable contracts that were deployed with `CREATE2` by another contract that allows new deployments at the same address.
+
 # Reading material
 
 ### State expiry / statelessness
