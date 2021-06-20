@@ -50,12 +50,47 @@ There were 4 proposed expiry schemes, and core development has chosen the regene
 Only block proposers are required to store state. All other nodes can verify blocks statelessly.
 ## Technical Milestones
 
-- Verkle Trie
+- Verkle Trees
 - Witness Implementation
 - Regenesis Expiry Scheme
 - Portal Network
 - Block Level Access Lists
 - [Extending Address from 20 to 32 bytes](https://ethereum-magicians.org/t/increasing-address-size-from-20-to-32-bytes/5485)
+
+## Verkle Trees
+
+![verkle tree structure](https://vitalik.ca/images/verkle-files/verkle.png)
+
+The structure of nodes in a hexary (16 children per parent) Verkle tree.
+### Comparison to Merkle Patricia Trees (MPT)
+- same critical functions as MPT: 
+    - can hold large amounts of data
+    - easy short proof (witness) of piece(s) 
+    - data verified by root of tree
+- proof size is ~6 times smaller than merkle tree
+- critical component for stateless clients
+- diff btw [merkle patricia tree](https://ethereum.stackexchange.com/questions/6415/eli5-how-does-a-merkle-patricia-trie-tree-work): 
+    - MPT is most efficient when width = 2
+    - Verkle trees have shorter proofs the higher the width (currently 256)
+
+    ![merkle patricia tree proof](https://vitalik.ca/images/verkle-files/verkle2.png)
+
+    - in MPT, to provide proof of `4ce` must include all nodes in red
+    - in Verkle, only need path + extra as proof 
+- to compute node from children: MPT uses hash function, verkle tree uses a vector commitment
+
+### the vector commitment
+- vector commitment scheme is a special hash function h(z1, z2 ... zn) --> C
+- property: short proof that C is commitment to some list where ith position is value zi 
+- can prove child position without inclusion of all sister nodes
+
+![verkle tree proof](https://vitalik.ca/images/verkle-files/verkle3.png)
+
+No sister nodes required in a proof of a value in the tree; just the path itself plus a few short proofs to link each commitment in the path to the next.
+
+### polynomial commitment
+- hash polynomial, make proof for evaluation of hashed polynomial at any point
+- most efficient and simple type of vector commitment
 
 ## [Witness Implementation](https://github.com/ethereum/stateless-ethereum-specs/wiki/Glossary#witnesses)
 
@@ -211,6 +246,8 @@ January 2021:
 ### Verkle Tries
 
 June 2021: 
+
+[Verkle Trees](https://vitalik.ca/general/2021/06/18/verkle.html)
 
 [Verkle Tree Scheme for Etherem State](https://ethereum-magicians.org/t/proposed-verkle-tree-scheme-for-ethereum-state/5805)
 
