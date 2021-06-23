@@ -1,39 +1,41 @@
 # Ognyan's topics of interest and links
 
-## Potential projects
+## Project candidates
 
-### 1. Proof of concept for code chunk tracking
+## 1. Proof of concept for code chunk tracking
+
+#### Project summary
 https://github.com/ethereum-cdap/cohort-zero/issues/62
 
-Code verkleization:
-- Write EVM modification in a client to keep track of code chunks access.
+Write POC EVM modification in a client to keep track of code chunks access.
 
-### 2. Analyze how changes to the gas cost schedule in state expiry will effect existing contracts
- https://github.com/ethereum-cdap/cohort-zero/issues/64
+#### Acceptance criteria
 
-Why not start with project 1) and if enough capacity after project 1) is completed, continue with project 2).
-One of the benefits of this is that a POC prototype will be implemented in a client 
-for tracking code chunks. We can use the same modified client to also analyse
-the new gas schedules by tracing the transactions, similar to [this analysis](https://notes.ethereum.org/@ipsilon/code-chunk-cost-analysis).
+To do
 
-Notes:
-
-Gas is charged in three cases: 1) fee intrinsic to the computatuon of the operation (Appendix G) 2) message call or contract creation CREATE, CREATE2, CALL and CALLCODE. 3) increase in the usage of memory
- 
-EVM gas cost Appendix H
-
-### Questions
-
+#### Questions
 1. Is code merkleization implemented in any of the clients, other than
 https://github.com/s1na/go-ethereum/tree/code-merkleization-ssz-stats ?
-2. Are there any prototype implementations of verkle trie in geth?
+2. Are there any prototype implementations of verkle trie in geth? I have found only [this PR](https://github.com/ethereum/go-ethereum/pull/22999).
+3. What is meant by "keep track of which chunks of code you access"? What is the acceptance criteria?
 
-### Actions
+#### Actions
+1. Set clear project goals and acceptance criteria.
+2. Read on SSZ vs rlp.
+3. Check EVM implementations (py-evm/geth)
 
-1. Read on code merkleization/verkleization.
-2. Explore transaction tracing APIs.
+#### Links
 
-### Links
+Code merkleization:
+https://hugo-dc.github.io/cm-docs/
+
+https://blog.ethereum.org/2021/04/26/ef-supported-teams-research-and-development-update-2021-pt-1/#code-merkleization
+
+Implemented code merkleization in geth:
+https://github.com/s1na/go-ethereum/tree/code-merkleization-ssz-stats
+
+Verkle tree in go:
+https://github.com/gballet/go-verkle
 
 A state expiry and statelessness roadmap:
 https://notes.ethereum.org/@vbuterin/verkle_and_state_expiry_proposal
@@ -46,22 +48,37 @@ https://notes.ethereum.org/@vbuterin/state_expiry_eip
 
 [State expiry zoom recording](https://consensysmesh.zoom.us/rec/play/VoftjeRO0xNFHObLZpot-r0hTj0U6ZG0fUKORwQzy2qoh-JlweRgL6hj5UxqC8WsdYW3IOVBc6l_912R.ND8fJB672c-EpG1T?_x_zm_rhtaid=872&_x_zm_rtaid=Jhbf_Q6fTx-tPJB7vFllMg.1623863913448.e6b0045131eec8ea5666c579c3b613b7&autoplay=true&continueMode=true&startTime=1623848674000)
 
-Code merkleization:
-https://blog.ethereum.org/2021/04/26/ef-supported-teams-research-and-development-update-2021-pt-1/#code-merkleization
+EVM:
+https://blog.trustlook.com/understand-evm-bytecode-part-1/
 
-Implemented code merkleization in geth:
-https://github.com/s1na/go-ethereum/tree/code-merkleization-ssz-stats
+## 2. Analyze how changes to the gas cost schedule in state expiry will effect existing contracts
+ https://github.com/ethereum-cdap/cohort-zero/issues/64
 
-Verkle tree in go:
-https://github.com/gballet/go-verkle
+Why not start with project 1) and if enough capacity after project 1) is completed, continue with project
+2). One of the benefits of this is that a POC prototype will be implemented in a 
+client for tracking code chunks. Then we can use the same modified client to also analyse 
+the new gas schedules by tracing the transactions, similar to [this analysis](https://notes.ethereum.org/@ipsilon/code-chunk-cost-analysis).
+
+Notes:
+
+Gas is charged in three cases: 1) fee intrinsic to the computation of the operation (Appendix G) 2) message call or contract creation CREATE, CREATE2, CALL and CALLCODE. 3) increase in the usage of memory
+ 
+EVM gas cost Appendix H
+
+#### Questions
+
+To Do
+
+#### Actions
+
+1. Explore transaction tracing APIs.
+
+#### Links
 
 Code chunk cost analysis:
 https://notes.ethereum.org/@ipsilon/code-chunk-cost-analysis
 
-https://www.reddit.com/r/ethereum/comments/3k4h3w/basic_questions_about_the_ethereum_evm_and_state/
-
-
-## Portal Network Notes
+# Portal Network Notes
 
 Those notes are based on my current understanding of the network.
 
