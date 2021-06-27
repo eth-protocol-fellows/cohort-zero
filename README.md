@@ -42,3 +42,5 @@ Program Outline:
 - [Stage 2: Exploration](./stage-2-project-exploration.md)
 - [Stage 3: Planning](./stage-3-project-planning.md)
 - [Stage 4: Execution](./stage-4-project-execution.md)
+
+View the [Development Updates](./development-updates.md) from the active program participants.
