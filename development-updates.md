@@ -25,4 +25,6 @@ Development updates from [`pipermerriam`](https://github.com/pipermerriam/)
 
 ### Piper: Update 1
 
-This is simply a placeholder for now.
+> Not in the normal "development update" format.  Much more of a blog post.
+
+https://snakecharmers.ethereum.org/the-core-developer-apprenticeship-program/
