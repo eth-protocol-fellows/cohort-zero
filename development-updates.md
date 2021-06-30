@@ -5,6 +5,8 @@
 > Add yours to the TOC if it isn't there already
 
 - [Contributing](#contributing)
+- [Ognyan](#ognyan)
+    - [Update #1](#ognyan-update-1)
 - [Piper](#piper)
     - [Update #1](#piper-update-1)
 
@@ -18,6 +20,13 @@ your development updates in this document.
 - Add it to the [Table of Contents](#table-of-contents)
 - Keep the overall list of people sorted alphabetically.
 
+## Ognyan
+
+Development updates from [`ogenev`](https://github.com/ogenev/)
+
+### Ognyan: Update 1
+
+https://hackmd.io/@ogenev/B1N-Xb53d
 
 ## Piper
 
