@@ -20,6 +20,14 @@ your development updates in this document.
 - Add it to the [Table of Contents](#table-of-contents)
 - Keep the overall list of people sorted alphabetically.
 
+## Austin
+
+Development updates from [`austinlhx`](https://github.com/austinlhx)
+
+### Austin: Update 1
+
+https://hackmd.io/@austinlhx/HyJIZHqnd
+
 ## Ognyan
 
 Development updates from [`ogenev`](https://github.com/ogenev/)
