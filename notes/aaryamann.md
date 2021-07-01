@@ -113,7 +113,7 @@
 
 		- There are various types of packets that are sent to and fro between nodes to establish and secure the connection between them. Technical spec regarding the packets can be found [here](https://github.com/ethereum/devp2p/blob/master/discv4.md#ping-packet-0x01)
 
-		- The records are stored in a [Kademlia table](####Kademlia-tables) 
+		- The records are stored in a [Kademlia table](#Kademlia-tables) 
 
 		- As messages are exchanged between nodes, buckets that store node Ids is filled up from least-recently seen to most-recently seen
 

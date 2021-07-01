@@ -18,6 +18,7 @@ Here are some starting points for learning about the Ethereum protocol.
 
 ### Ethereum Basics 
 - Conceptual Overview: https://ethereum.stackexchange.com/questions/268/ethereum-block-architecture
+    - [Higher resolution pictures](https://github.com/4c656554/BlockchainIllustrations/tree/2f6804a75b0ef4708adaa6e34df9681dbec4b669/Ethereum)
 - Ecosystem Portal: https://123eth.org/
 - Basic technical details of Ethereum Blockchain Protocol (Vitalik Buterin): https://youtu.be/gjwr-7PgpN8
 
