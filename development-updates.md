@@ -20,6 +20,14 @@ your development updates in this document.
 - Add it to the [Table of Contents](#table-of-contents)
 - Keep the overall list of people sorted alphabetically.
 
+## Austin
+
+Development updates from [`austinlhx`](https://github.com/austinlhx)
+
+### Austin: Update 1
+
+https://hackmd.io/@austinlhx/HyJIZHqnd
+
 ## Ognyan
 
 Development updates from [`ogenev`](https://github.com/ogenev/)
@@ -37,3 +45,10 @@ Development updates from [`pipermerriam`](https://github.com/pipermerriam/)
 > Not in the normal "development update" format.  Much more of a blog post.
 
 https://snakecharmers.ethereum.org/the-core-developer-apprenticeship-program/
+
+## Ying Tong
+
+Development updates from [`therealyingtong`](https://github.com/therealyingtong)
+
+### Ying Tong: Update 1 (1 July 2021)
+An introduction to the zkEVM project, and links to initial development on the spec and PoC implementation. [(Link to post)](./notes/yingtong/update_1.md)
