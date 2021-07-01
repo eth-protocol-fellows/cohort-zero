@@ -21,7 +21,7 @@ You are encouraged to contribute to improving the information in this repository
 
 Program participation is not limited to those that are officially selected. Everything that happens during the program will happen out in the open.
 
-- Communication will occur in the R&D discord: https://discord.gg/2sBGYZtv
+- Communication will occur in the R&D discord (Request an invite in [this issue](https://github.com/ethereum-cdap/cohort-zero/issues/89):
     - find us in the `#apprenticeship-program` channel.
 - Project instructions will be committed to this github repository.
 - Project deliverables will be posted in various open places such as this repository, the [Research forums](https://ethresear.ch/), the [Ethereum Magicians forums](https://ethereum-magicians.org/), github gists, hackmd documents, etc.
