@@ -281,3 +281,99 @@ January 2021: [Alternative bounded-state-friendly address scheme](https://ethres
 ### Stateless Clients 
 
 July 2020: [Stateless Client Witnesses](https://www.youtube.com/watch?v=kbcj1TKXaN4)
+
+
+# Portal Network
+
+## Important Points 
+- what protocol support for statelessness looks like
+- general understanding of portal network
+- using a portal client (no syncing, low resource consumption, it just works)
+- current clients may adopt to improve client UX and side effects on devp2p 
+- post statelessness + portal network 
+
+## Outline
+1. Introductions
+2. Roadmap
+3. Stateless Ethereum
+4. Stateless Clients 
+5. Portal Network
+    - combined contribution of many small clients
+    - deliver json-rpc functionality
+    - move the following to the networking level: 
+        - state management + availability
+        - canonical indices
+        - transaction gossip
+        - chain history storage
+6. Portal Clients 
+7. Zoom Out 
+
+## Stateless Ethereum
+- problem statement: 
+    - state: information needed by a node to process new transactions and blocks
+    - problem: "junk state" -- old account/contracts that are never used again, but left in the state forever
+        - fundamental economic imbalance: users pays a one time gas cost for a transaction that imposes permanent ongoing costs to the network
+    - this is why we can't keep increasing the gas limit to reduce gas costs?
+- solution: two efforts together: state expiry + weak statelessness
+    1. state expiry: 
+        - State that is untouched for a period of time is "inactive" or "expired"
+        - Expired state is never deleted, but must be "resurrected" via a witness
+    2. weak statelessness: 
+        - only block proposers are required to store state, all other nodes can verify blocks statelessly
+- definitions: 
+    - stateless client
+    - stateless block execution
+    - consensus protocol
+    - networking protocol
+- problems:
+    - witness size
+    - witness gas accounting
+    - witness production
+
+## Portal Network
+- lightweight protocol access for resource constrained devices 
+- "portal": provide a *view* into the protocol, not critical to operation
+- aims to provide data + functionality of standard JSON-RPC API
+- goals:
+    1. stateless clients: client verifies execution of block using witness
+        - does not keep or maintain Ethereum state data
+        - unable to serve JSON-RPC API calls --> portal network provides this infrastructure 
+        - stateless clients expose external APIs that support web3 ecosystem
+    2. scalable lightweight clients: 
+        - additional clients joining the network must also add capacity
+        - network becomes more robust and powerful as more nodes join
+- network functionality 
+    1. state: accounts + contract storage
+        - state network is in charge of on-demand retrieval of ethereum state data
+        - nodes choose how much state stored and shared
+        - network must identify which node to query for portions of state 
+        - "bridge nodes" provide new and updated state from main network to portal network
+        - querying/reading data from network should be fast for human-driven wallet operations (estimate gas, read state)
+    2. chain history: headers, blocks, receipts
+        - [ethereum block architecture](https://ethereum.stackexchange.com/questions/268/ethereum-block-architecture)
+        - [transaction receipt](https://ethereum.stackexchange.com/questions/16525/what-are-ethereum-transaction-receipts-and-what-are-they-used-for)
+        - to validate requested portal network data, client must be able to request headers and validate inclusion in canonical header chain
+        - validated headers can be used to validate blocks, uncles, transactions, receipts, state nodes 
+        - use [double-batched merkle log accumulator](https://ethresear.ch/t/double-batched-merkle-log-accumulator/571) to construct canonical change without downloading every canonical header
+        - portal client requests header --> response includes two accumulator proofs 
+            - client maintains up-to-date view of chain tip via gossip network
+            - use proofs to validate heaaders inclusion in canonical chain
+            - client use header to validate other data retrieved from protala network 
+    3. Canonical Indices: transactions by hash and blocks by number
+        - clients serve JSON-RPC API endpoints (`eth_getTransactionByHash` and `eth_getBlockByNumber`) 
+        - clients build local indexes as sync entire chain --> portal network mimics indices by genereating unique mappings for transactions abd blocks and pushing them to the portal network 
+        - transactions and blocks van be valid, but need mechanism to validate that they were actually included in the canonical chain at that block and level
+        - mappings:
+            1. canonical block index: block_number -> block_hash
+                - get header associated with block_hash, use accumulator to verify block_hash is accurate for block_number
+            2. canonical transaction index: tx_hash -> (block_hash, tx_index)
+                - fetch block header, verify against accumulator, ffetch block body, verify tx_hash matches transaction found at tx_index in transaction trie
+    4. transaction sending: cooperative transaction gossip
+        - make sure all transactions available to miners to be included in a block
+        - stateless clients declare percentage of transactions they want to process out of unmined and valid transactions 
+        - stateless transaction validation: check account balances and noonces 
+        - network needs to submit account proofs with each transaction
+
+### Sources
+
+June 2021: [The Portal Network](https://github.com/ethereum/stateless-ethereum-specs/blob/master/portal-network.md)
