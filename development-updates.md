@@ -5,6 +5,8 @@
 > Add yours to the TOC if it isn't there already
 
 - [Contributing](#contributing)
+- [Kolby](#kolby)
+    - [Update #1](#kolby-update-1)- 
 - [Ognyan](#ognyan)
     - [Update #1](#ognyan-update-1)
 - [Piper](#piper)
@@ -27,6 +29,14 @@ Development updates from [`austinlhx`](https://github.com/austinlhx)
 ### Austin: Update 1
 
 https://hackmd.io/@austinlhx/HyJIZHqnd
+
+## Kolby
+
+Development updates from [`KolbyML`](https://github.com/KolbyML)
+
+### Kolby: Update 1
+
+https://hackmd.io/eCBG9ANoT9my0St87Y6GEg
 
 ## Ognyan
 
