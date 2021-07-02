@@ -47,5 +47,5 @@ A great example are Danny Ryan's "finalized" series of development updates. Here
 You should: 
 
 - post your first update within the first week of starting into the program.
-- post your update somewhere public. This can be your own blog. A forum post. A markdown document in the `cohort-zero` repository.
-- you should provide a URL referencing your development update in your `./notes/<your-name>.md` document within the `cohort-zero` repository.
+- post your update somewhere public. Using the main [`development-updates.md` document](./development-updates.md) is fine.  An external blog or forum post are also great.
+- *if* you post your update somewhere external, you should provide a URL referencing your development update in the [`development-updates.md` document](./development-updates.md).
