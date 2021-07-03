@@ -7,6 +7,8 @@
 - [Contributing](#contributing)
 - [Austin](#austin)
     - [Update #1](#austin-update-1)
+- [Nhlanhla](#nhlanhla)
+    - [Updates](#nhlanhla-updates)
 - [Kolby](#kolby)
     - [Update #1](#kolby-update-1)-
 - [Ognyan](#ognyan)
@@ -31,6 +33,20 @@ Development updates from [`austinlhx`](https://github.com/austinlhx)
 ### Austin: Update 1
 
 https://hackmd.io/@austinlhx/HyJIZHqnd
+
+## Nhlanhla 
+
+Development Updates from [`Nhlanhla`](https://github.com/NhlanhlaHasane)
+
+### Nhlanhla: [Updates](./notes/Nhlanhla.md)
+> - Zero-Knowledge Proofs for Engineers: Introduction
+> - ZKPs for Engineers: A look at the Dark Forest ZKPs
+> - CHOOSING AN ETHEREUM CLIENT
+> - Ethereum Client 101
+> - Mastering Ethereum 
+> - EIP1559 FAQ 
+> - EVM
+> - Eth2 Updates
 
 ## Kolby
 
