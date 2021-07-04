@@ -1,8 +1,9 @@
 ## General Interests
+My main notes are in this notion doc: [notes](https://www.notion.so/CDAP-0-b59a6b4e92be4aa4837b971afeba06e9)
 - Ethereum devp2p networking protocol
 - Cryptography
 - Layer 2
-- Interoperability between blockchains (not sure if this is related to CDAP)
+- Interoperability between blockchains
 
 So I am interested in basically any and all areas of research, just because of
 a general high level curiosity, ie, not knowing much about much. However, I am
