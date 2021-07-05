@@ -5,10 +5,12 @@
 > Add yours to the TOC if it isn't there already
 
 - [Contributing](#contributing)
+- [Albus](#albus)
+    - [Update #1](#albus-update-1)
 - [Austin](#austin)
     - [Update #1](#austin-update-1)
 - [Kolby](#kolby)
-    - [Update #1](#kolby-update-1)-
+    - [Update #1](#kolby-update-1)
 - [Ognyan](#ognyan)
     - [Update #1](#ognyan-update-1)
 - [Piper](#piper)
@@ -23,6 +25,14 @@ your development updates in this document.
 - Create a new H2 heading section with your name.
 - Add it to the [Table of Contents](#table-of-contents)
 - Keep the overall list of people sorted alphabetically.
+
+## Albus
+
+Development updates from [`adompeldorius`](https://github.com/adompeldorius)
+
+### Albus: Update 1
+
+[https://hackmd.io/@albus/HJ6EBiTn_](https://hackmd.io/@albus/HJ6EBiTn_)
 
 ## Austin
 
