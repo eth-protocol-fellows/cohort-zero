@@ -11,6 +11,8 @@
     - [Update #1](#austin-update-1)
 - [Kolby](#kolby)
     - [Update #1](#kolby-update-1)
+- [Nicolas (Norswap)](#nicolas-norswap)
+    - [Update #1](#norswap-update-1)
 - [Ognyan](#ognyan)
     - [Update #1](#ognyan-update-1)
 - [Piper](#piper)
@@ -49,6 +51,19 @@ Development updates from [`KolbyML`](https://github.com/KolbyML)
 ### Kolby: Update 1
 
 https://hackmd.io/eCBG9ANoT9my0St87Y6GEg
+
+## Nicolas (Norswap)
+
+Development updates from [`norswap`](https://github.com/norswap/)
+
+### Norswap: Update 1
+
+[Link to
+update.](https://www.notion.so/norswap/Dev-Update-1-5d4177c99f6b4c9ba856a5b870f9871a)
+
+tl;dr: Writing the [state management
+review](https://www.notion.so/norswap/Dev-Update-1-5d4177c99f6b4c9ba856a5b870f9871a)
+review and working on [nanoeth](https://github.com/norswap/nanoeth).
 
 ## Ognyan
 
