@@ -25,4 +25,7 @@ We plan on building a C++ client from scratch that's optimized for the above obj
 
 ## Status:
 
-The project is in its infancy, we have implemented the basic types and containers, SSZ serialization. After the beacon-chain logic is complete, we plan to release the code and ask for help from the comunity dealing with the `libp2p` stack. There is a C++ implementation [here](https://github.com/libp2p/cpp-libp2p) which has GossipSub marked as WIP. 
+The project is in its infancy, we have implemented the basic types and containers, SSZ serialization. The current status of the code can be found in the [mammon repo](https://github.com/potuz/mammon). Merkleization is working but there are a couple of issues that need to be addressed: we need to keep a cache of the hash-trees since changes on the validator registry propagate on these trees and only a few nodes change. We also want to paralellize the hashing, in the case that many nodes are changed, as is the case for the `balances` list. I'll add some notes on the problems that are being faced in [design.md](https://github.com/potuz/mammon/blob/main/assets/design.md). 
+
+After the beacon-chain logic is complete, we plan to release the code and ask for help from the comunity dealing with the `libp2p` stack. There is a C++ implementation [here](https://github.com/libp2p/cpp-libp2p) which has GossipSub marked as WIP. 
+
