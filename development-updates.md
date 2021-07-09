@@ -101,7 +101,7 @@ Development updates from [`pipermerriam`](https://github.com/pipermerriam/)
 
 https://snakecharmers.ethereum.org/the-core-developer-apprenticeship-program/
 
-## Victor (funkymonks)
+## Victor
 
 Development updates from [`funkymonks`](https://github.com/victor-wei126)
 
