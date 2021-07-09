@@ -19,6 +19,8 @@
     - [Update #1](#ognyan-update-1)
 - [Piper](#piper)
     - [Update #1](#piper-update-1)
+- [Victor](#victor)
+    - [Update #1](#victor-update-1)
 
 
 ## Contributing
@@ -98,6 +100,14 @@ Development updates from [`pipermerriam`](https://github.com/pipermerriam/)
 > Not in the normal "development update" format.  Much more of a blog post.
 
 https://snakecharmers.ethereum.org/the-core-developer-apprenticeship-program/
+
+## Victor (funkymonks)
+
+Development updates from [`funkymonks`](https://github.com/victor-wei126)
+
+### Victor: Update 1
+
+https://hackmd.io/@6RDftSXaRAuyfQjhzN0Abw/B1ByWBU6u
 
 ## Ying Tong
 
