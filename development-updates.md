@@ -15,6 +15,7 @@
     - [Updates](#nhlanhla-updates)
 - [Kolby](#kolby)
     - [Update #1](#kolby-update-1)
+    - [Update #2](#kolby-update-2)
 - [Nicolas (Norswap)](#nicolas-norswap)
     - [Update #1](#norswap-update-1)
 - [Ognyan](#ognyan)
@@ -81,6 +82,10 @@ Development updates from [`KolbyML`](https://github.com/KolbyML)
 ### Kolby: Update 1
 
 https://hackmd.io/eCBG9ANoT9my0St87Y6GEg
+
+### Kolby: Update 2
+
+https://hackmd.io/vBINdl8YTh-gxOfDr7ZUHA
 
 ## Nicolas (Norswap)
 
