@@ -21,6 +21,8 @@
     - [Update #1](#ognyan-update-1)
 - [Piper](#piper)
     - [Update #1](#piper-update-1)
+- [Potuz](#potuz)
+    - [Update #1](#potuz-update-1)
 - [Victor](#victor)
     - [Update #1](#victor-update-1)
 
@@ -110,6 +112,16 @@ Development updates from [`pipermerriam`](https://github.com/pipermerriam/)
 > Not in the normal "development update" format.  Much more of a blog post.
 
 https://snakecharmers.ethereum.org/the-core-developer-apprenticeship-program/
+
+## Potuz
+
+Updates will be posted in mammon's repo https://github.com/potuz/mammon
+
+### Potuz: Update 1
+
+Currently working implementation of SSZ encoding/decoding, YAML
+encoding/decoding of phase 0 types. Merkleization. Looking into implementing
+faster hashing algos
 
 ## Victor
 
