@@ -9,6 +9,8 @@
     - [Update #1](#albus-update-1)
 - [Austin](#austin)
     - [Update #1](#austin-update-1)
+- [Jacob](#jacob)
+    - [Update #1](#jacob-update-1)
 - [Nhlanhla](#nhlanhla)
     - [Updates](#nhlanhla-updates)
 - [Kolby](#kolby)
@@ -47,6 +49,14 @@ Development updates from [`austinlhx`](https://github.com/austinlhx)
 ### Austin: Update 1
 
 https://hackmd.io/@austinlhx/HyJIZHqnd
+
+## <a name="jacob" /> Jacob
+
+Development updates from [`jacobkaufmann`](https://github.com/jacobkaufmann)
+
+### <a name="jacob-update-1" /> Jacob: Update 1
+
+[Update 1](https://hackmd.io/@rGyFfB9KSzmVchM5WxNqIQ/r150mEy0_)
 
 ## Nhlanhla 
 
