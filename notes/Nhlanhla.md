@@ -23,6 +23,8 @@
    - [Merkle trees: a visual introduction](https://blog.iden3.io/merkle-trees-visual-introduction.html)
    - [Sparse Merkle trees: a visual introduction](https://blog.iden3.io/sparse-merkle-trees-visual-introduction.html)
    - [Vitalik's explanation of the Markle trees](https://vitalik.ca/general/2021/06/18/verkle.html)
+   - [Vitalik's Merkling in Ethereum](https://blog.ethereum.org/2015/11/15/merkling-in-ethereum/)
+   - [Merkle-Patricia-Tree](https://hackmd.io/@Nhlanhla/SkGDJZB0d)
 
 # Client Development 
    Resources 
@@ -38,7 +40,7 @@
 # EVM
   Resources 
   - [ETHEREUM VIRTUAL MACHINE](https://ethereum.org/en/developers/docs/evm/)
-  - [
+  
 # Phase 2
   Resources 
   - [Eth2 Upgrades](https://ethereum.org/en/eth2/)
