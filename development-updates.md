@@ -91,7 +91,7 @@ https://hackmd.io/vBINdl8YTh-gxOfDr7ZUHA
 
 ## Mike
 
-Development updates from ['Mike'](https://github.com/mrferris)
+Development updates from [Mike Ferris](https://github.com/mrferris)
 
 ### Mike: Update 1
 
