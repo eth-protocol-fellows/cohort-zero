@@ -16,6 +16,8 @@
 - [Kolby](#kolby)
     - [Update #1](#kolby-update-1)
     - [Update #2](#kolby-update-2)
+- [Mike](#mike)
+    - [Update #1](#mike-update-1)
 - [Nicolas (Norswap)](#nicolas-norswap)
     - [Update #1](#norswap-update-1)
 - [Ognyan](#ognyan)
@@ -86,6 +88,14 @@ https://hackmd.io/eCBG9ANoT9my0St87Y6GEg
 ### Kolby: Update 2
 
 https://hackmd.io/vBINdl8YTh-gxOfDr7ZUHA
+
+## Mike
+
+Development updates from [Mike Ferris](https://github.com/mrferris)
+
+### Mike: Update 1
+
+https://hackmd.io/4BxIUm1JRdyM1-XE0Rhx7Q
 
 ## Nicolas (Norswap)
 
