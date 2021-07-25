@@ -9,16 +9,23 @@
     - [Update #1](#albus-update-1)
 - [Austin](#austin)
     - [Update #1](#austin-update-1)
+- [Jacob](#jacob)
+    - [Update #1](#jacob-update-1)
 - [Nhlanhla](#nhlanhla)
     - [Updates](#nhlanhla-updates)
 - [Kolby](#kolby)
     - [Update #1](#kolby-update-1)
+    - [Update #2](#kolby-update-2)
+- [Mike](#mike)
+    - [Update #1](#mike-update-1)
 - [Nicolas (Norswap)](#nicolas-norswap)
     - [Update #1](#norswap-update-1)
 - [Ognyan](#ognyan)
     - [Update #1](#ognyan-update-1)
 - [Piper](#piper)
     - [Update #1](#piper-update-1)
+- [Potuz](#potuz)
+    - [Update #1](#potuz-update-1)
 - [Victor](#victor)
     - [Update #1](#victor-update-1)
 
@@ -48,6 +55,14 @@ Development updates from [`austinlhx`](https://github.com/austinlhx)
 
 https://hackmd.io/@austinlhx/HyJIZHqnd
 
+## <a name="jacob" /> Jacob
+
+Development updates from [`jacobkaufmann`](https://github.com/jacobkaufmann)
+
+### <a name="jacob-update-1" /> Jacob: Update 1
+
+[Update 1](https://hackmd.io/@rGyFfB9KSzmVchM5WxNqIQ/r150mEy0_)
+
 ## Nhlanhla 
 
 Development Updates from [`Nhlanhla`](https://github.com/NhlanhlaHasane)
@@ -69,6 +84,18 @@ Development updates from [`KolbyML`](https://github.com/KolbyML)
 ### Kolby: Update 1
 
 https://hackmd.io/eCBG9ANoT9my0St87Y6GEg
+
+### Kolby: Update 2
+
+https://hackmd.io/vBINdl8YTh-gxOfDr7ZUHA
+
+## Mike
+
+Development updates from [Mike Ferris](https://github.com/mrferris)
+
+### Mike: Update 1
+
+https://hackmd.io/4BxIUm1JRdyM1-XE0Rhx7Q
 
 ## Nicolas (Norswap)
 
@@ -100,6 +127,16 @@ Development updates from [`pipermerriam`](https://github.com/pipermerriam/)
 > Not in the normal "development update" format.  Much more of a blog post.
 
 https://snakecharmers.ethereum.org/the-core-developer-apprenticeship-program/
+
+## Potuz
+
+Updates will be posted in mammon's repo https://github.com/potuz/mammon
+
+### Potuz: Update 1
+
+Currently working implementation of SSZ encoding/decoding, YAML
+encoding/decoding of phase 0 types. Merkleization. Looking into implementing
+faster hashing algos
 
 ## Victor
 
