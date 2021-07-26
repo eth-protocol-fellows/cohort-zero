@@ -11,6 +11,7 @@
     - [Update #1](#austin-update-1)
 - [Jacob](#jacob)
     - [Update #1](#jacob-update-1)
+    - [Update #2](#jacob-update-2)
 - [Nhlanhla](#nhlanhla)
     - [Updates](#nhlanhla-updates)
 - [Kolby](#kolby)
@@ -62,6 +63,10 @@ Development updates from [`jacobkaufmann`](https://github.com/jacobkaufmann)
 ### <a name="jacob-update-1" /> Jacob: Update 1
 
 [Update 1](https://hackmd.io/@rGyFfB9KSzmVchM5WxNqIQ/r150mEy0_)
+
+### <a name="jacob-update-2" /> Jacob: Update 2
+
+[Update 2](https://hackmd.io/re6ewnUsQOWQrOyVkeQOYw)
 
 ## Nhlanhla 
 
