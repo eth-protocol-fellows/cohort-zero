@@ -28,6 +28,7 @@
     - [Update #1](#piper-update-1)
 - [Potuz](#potuz)
     - [Update #1](#potuz-update-1)
+    - [Update #2](#potuz-update-2)
 - [Victor](#victor)
     - [Update #1](#victor-update-1)
 
@@ -147,6 +148,13 @@ Updates will be posted in mammon's repo https://github.com/potuz/mammon
 Currently working implementation of SSZ encoding/decoding, YAML
 encoding/decoding of phase 0 types. Merkleization. Looking into implementing
 faster hashing algos
+
+### Potuz: Update 2
+
+Implemented assembly of hashing algorithm and surpassed performance of existing
+client implementations by 40%. Notes in 
+
+https://hackmd.io/@potuz/rJX9iD30u
 
 ## Victor
 
