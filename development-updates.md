@@ -21,6 +21,7 @@
     - [Update #1](#mike-update-1)
 - [Nicolas (Norswap)](#nicolas-norswap)
     - [Update #1](#norswap-update-1)
+    - [Update #2](#norswap-update-2)
 - [Ognyan](#ognyan)
     - [Update #1](#ognyan-update-1)
     - [Update #2](#ognyan-update-2)
@@ -70,7 +71,7 @@ Development updates from [`jacobkaufmann`](https://github.com/jacobkaufmann)
 
 [Update 2](https://hackmd.io/re6ewnUsQOWQrOyVkeQOYw)
 
-## Nhlanhla 
+## Nhlanhla
 
 Development Updates from [`Nhlanhla`](https://github.com/NhlanhlaHasane)
 
@@ -79,8 +80,8 @@ Development Updates from [`Nhlanhla`](https://github.com/NhlanhlaHasane)
 > - ZKPs for Engineers: A look at the Dark Forest ZKPs
 > - CHOOSING AN ETHEREUM CLIENT
 > - Ethereum Client 101
-> - Mastering Ethereum 
-> - EIP1559 FAQ 
+> - Mastering Ethereum
+> - EIP1559 FAQ
 > - EVM
 > - Eth2 Updates
 
@@ -113,9 +114,17 @@ Development updates from [`norswap`](https://github.com/norswap/)
 [Link to
 update.](https://www.notion.so/norswap/Dev-Update-1-5d4177c99f6b4c9ba856a5b870f9871a)
 
-tl;dr: Writing the [state management
+tl;dr: Wrote the [state management
 review](https://www.notion.so/norswap/Dev-Update-1-5d4177c99f6b4c9ba856a5b870f9871a)
-review and working on [nanoeth](https://github.com/norswap/nanoeth).
+and worked on [nanoeth](https://github.com/norswap/nanoeth).
+
+### Norswap: Update 2
+
+[Link to
+update.](https://www.notion.so/norswap/Dev-Update-2-e48c8384b1424d81b774b56c3720f7b8)
+
+tl;dr: Implemented transaction signing in nanoeth, read up on the Ethereum
+ecosystem and attended EthCC.
 
 ## Ognyan
 
@@ -152,7 +161,7 @@ faster hashing algos
 ### Potuz: Update 2
 
 Implemented assembly of hashing algorithm and surpassed performance of existing
-client implementations by 40%. Notes in 
+client implementations by 40%. Notes in
 
 https://hackmd.io/@potuz/rJX9iD30u
 
