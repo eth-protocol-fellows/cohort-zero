@@ -76,6 +76,12 @@ Development updates from [`jacobkaufmann`](https://github.com/jacobkaufmann)
 Development Updates from [`Nhlanhla`](https://github.com/NhlanhlaHasane)
 
 ### Nhlanhla: [Updates](./notes/Nhlanhla.md)
+
+> - Istanbul, zkRollup, and Ethereum throughput limits: an analysis 
+> - From zkRollup to accessible identities for all
+> - Create your first Zero-knowledge snark circuit using circom and snarkjs 
+> - Markle trees: a visual introduction
+> - Sparse Merkle trees: a visual introduction 
 > - Zero-Knowledge Proofs for Engineers: Introduction
 > - ZKPs for Engineers: A look at the Dark Forest ZKPs
 > - CHOOSING AN ETHEREUM CLIENT
@@ -84,6 +90,7 @@ Development Updates from [`Nhlanhla`](https://github.com/NhlanhlaHasane)
 > - EIP1559 FAQ
 > - EVM
 > - Eth2 Updates
+ 
 
 ## Kolby
 
