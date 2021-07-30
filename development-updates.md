@@ -11,19 +11,25 @@
     - [Update #1](#austin-update-1)
 - [Jacob](#jacob)
     - [Update #1](#jacob-update-1)
+    - [Update #2](#jacob-update-2)
 - [Nhlanhla](#nhlanhla)
     - [Updates](#nhlanhla-updates)
 - [Kolby](#kolby)
     - [Update #1](#kolby-update-1)
     - [Update #2](#kolby-update-2)
+- [Mike](#mike)
+    - [Update #1](#mike-update-1)
 - [Nicolas (Norswap)](#nicolas-norswap)
     - [Update #1](#norswap-update-1)
+    - [Update #2](#norswap-update-2)
 - [Ognyan](#ognyan)
     - [Update #1](#ognyan-update-1)
+    - [Update #2](#ognyan-update-2)
 - [Piper](#piper)
     - [Update #1](#piper-update-1)
 - [Potuz](#potuz)
     - [Update #1](#potuz-update-1)
+    - [Update #2](#potuz-update-2)
 - [Victor](#victor)
     - [Update #1](#victor-update-1)
 
@@ -61,16 +67,30 @@ Development updates from [`jacobkaufmann`](https://github.com/jacobkaufmann)
 
 [Update 1](https://hackmd.io/@rGyFfB9KSzmVchM5WxNqIQ/r150mEy0_)
 
-## Nhlanhla 
+### <a name="jacob-update-2" /> Jacob: Update 2
+
+[Update 2](https://hackmd.io/re6ewnUsQOWQrOyVkeQOYw)
+
+## Nhlanhla
 
 Development Updates from [`Nhlanhla`](https://github.com/NhlanhlaHasane)
 
 ### Nhlanhla: [Updates](./notes/Nhlanhla.md)
+
 > - Istanbul, zkRollup, and Ethereum throughput limits: an analysis 
 > - From zkRollup to accessible identities for all
 > - Create your first Zero-knowledge snark circuit using circom and snarkjs 
 > - Markle trees: a visual introduction
 > - Sparse Merkle trees: a visual introduction 
+> - Zero-Knowledge Proofs for Engineers: Introduction
+> - ZKPs for Engineers: A look at the Dark Forest ZKPs
+> - CHOOSING AN ETHEREUM CLIENT
+> - Ethereum Client 101
+> - Mastering Ethereum
+> - EIP1559 FAQ
+> - EVM
+> - Eth2 Updates
+ 
 
 ## Kolby
 
@@ -84,6 +104,14 @@ https://hackmd.io/eCBG9ANoT9my0St87Y6GEg
 
 https://hackmd.io/vBINdl8YTh-gxOfDr7ZUHA
 
+## Mike
+
+Development updates from [Mike Ferris](https://github.com/mrferris)
+
+### Mike: Update 1
+
+https://hackmd.io/4BxIUm1JRdyM1-XE0Rhx7Q
+
 ## Nicolas (Norswap)
 
 Development updates from [`norswap`](https://github.com/norswap/)
@@ -93,9 +121,17 @@ Development updates from [`norswap`](https://github.com/norswap/)
 [Link to
 update.](https://www.notion.so/norswap/Dev-Update-1-5d4177c99f6b4c9ba856a5b870f9871a)
 
-tl;dr: Writing the [state management
+tl;dr: Wrote the [state management
 review](https://www.notion.so/norswap/Dev-Update-1-5d4177c99f6b4c9ba856a5b870f9871a)
-review and working on [nanoeth](https://github.com/norswap/nanoeth).
+and worked on [nanoeth](https://github.com/norswap/nanoeth).
+
+### Norswap: Update 2
+
+[Link to
+update.](https://www.notion.so/norswap/Dev-Update-2-e48c8384b1424d81b774b56c3720f7b8)
+
+tl;dr: Implemented transaction signing in nanoeth, read up on the Ethereum
+ecosystem and attended EthCC.
 
 ## Ognyan
 
@@ -104,6 +140,10 @@ Development updates from [`ogenev`](https://github.com/ogenev/)
 ### Ognyan: Update 1
 
 https://hackmd.io/@ogenev/B1N-Xb53d
+
+### Ognyan: Update 2
+
+https://hackmd.io/@ogenev/HJDPqAK6_
 
 ## Piper
 
@@ -124,6 +164,13 @@ Updates will be posted in mammon's repo https://github.com/potuz/mammon
 Currently working implementation of SSZ encoding/decoding, YAML
 encoding/decoding of phase 0 types. Merkleization. Looking into implementing
 faster hashing algos
+
+### Potuz: Update 2
+
+Implemented assembly of hashing algorithm and surpassed performance of existing
+client implementations by 40%. Notes in
+
+https://hackmd.io/@potuz/rJX9iD30u
 
 ## Victor
 
