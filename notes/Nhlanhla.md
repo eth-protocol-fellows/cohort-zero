@@ -40,7 +40,7 @@
 # EVM
   Resources 
   - [ETHEREUM VIRTUAL MACHINE](https://ethereum.org/en/developers/docs/evm/)
-  
+  - [Explaining core system Ethereum Virtual Machine](https://hackmd.io/@Nhlanhla/SyIOqbUyK)
 # Phase 2
   Resources 
   - [Eth2 Upgrades](https://ethereum.org/en/eth2/)
