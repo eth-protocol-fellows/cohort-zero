@@ -18,6 +18,7 @@
 - [Kolby](#kolby)
     - [Update #1](#kolby-update-1)
     - [Update #2](#kolby-update-2)
+    - [Update #3](#kolby-update-3)
 - [Mike](#mike)
     - [Update #1](#mike-update-1)
 - [Nicolas (Norswap)](#nicolas-norswap)
@@ -108,6 +109,10 @@ https://hackmd.io/eCBG9ANoT9my0St87Y6GEg
 ### Kolby: Update 2
 
 https://hackmd.io/vBINdl8YTh-gxOfDr7ZUHA
+
+### Kolby: Update 3
+
+https://hackmd.io/TJ7AKs4-QBmdPGGxEuY2ig
 
 ## Mike
 
