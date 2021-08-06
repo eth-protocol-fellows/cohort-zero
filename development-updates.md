@@ -34,6 +34,7 @@
     - [Update #2](#potuz-update-2)
 - [Victor](#victor)
     - [Update #1](#victor-update-1)
+- [Voith](#voith)
 
 
 ## Contributing
@@ -189,6 +190,29 @@ Development updates from [`funkymonks`](https://github.com/victor-wei126)
 ### Victor: Update 1
 
 https://hackmd.io/@6RDftSXaRAuyfQjhzN0Abw/B1ByWBU6u
+
+## Voith
+
+Development updates from [`voith`](https://github.com/voith/)
+
+### Voith: Update 1
+
+Implemented header verification in the `eth1-specs` project.
+
+https://hackmd.io/BeIhhcrTTz29YvA_o_m5nw
+
+### Voith: Update 2
+
+Implemented memory operation opcodes in the `eth1-specs` project.
+
+https://hackmd.io/huh4-cPTQXyNy8tGfTCS1A
+
+### Voith: Update 3
+
+Implemented contract creation, `CREATE` and `RETURN` opcodes in the `eth1-specs`
+project.
+
+https://hackmd.io/UG8Q0RbsTDS-dgKZr9EEIg
 
 ## Ying Tong
 
