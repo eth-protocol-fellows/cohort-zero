@@ -27,6 +27,7 @@
 - [Ognyan](#ognyan)
     - [Update #1](#ognyan-update-1)
     - [Update #2](#ognyan-update-2)
+    - [Update #3](#ognyan-update-3)
 - [Piper](#piper)
     - [Update #1](#piper-update-1)
 - [Potuz](#potuz)
@@ -153,11 +154,15 @@ Development updates from [`ogenev`](https://github.com/ogenev/)
 
 ### Ognyan: Update 1
 
-https://hackmd.io/@ogenev/B1N-Xb53d
+[Update 1](https://hackmd.io/@ogenev/B1N-Xb53d)
 
 ### Ognyan: Update 2
 
-https://hackmd.io/@ogenev/HJDPqAK6_
+[Update 2](https://hackmd.io/@ogenev/HJDPqAK6_)
+
+### Ognyan: Update 3
+
+[Update 3](https://hackmd.io/@ogenev/HkWLYMQ2O)
 
 ## Piper
 
