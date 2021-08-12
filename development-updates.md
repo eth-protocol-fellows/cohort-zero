@@ -24,6 +24,7 @@
 - [Nicolas (Norswap)](#nicolas-norswap)
     - [Update #1](#norswap-update-1)
     - [Update #2](#norswap-update-2)
+    - [Update #3](#norswap-update-3)
 - [Ognyan](#ognyan)
     - [Update #1](#ognyan-update-1)
     - [Update #2](#ognyan-update-2)
@@ -147,6 +148,16 @@ update.](https://www.notion.so/norswap/Dev-Update-2-e48c8384b1424d81b774b56c3720
 
 tl;dr: Implemented transaction signing in nanoeth, read up on the Ethereum
 ecosystem and attended EthCC.
+
+### Norswap: Update 3
+
+[Link to
+update.](https://norswap.notion.site/Dev-Update-3-4028a0bd1dd74983acd90c471daae80d)
+
+tl;dr: Wrote about [address space extension
+(ASE)](https://ethereum-magicians.org/t/thoughts-on-address-space-extension-ase/6779)
+and [how to mitigate MEV sandwich attacks at the protocol
+level](https://ethresear.ch/t/mitigating-sandwich-attacks-at-the-protocol-level/10298/).
 
 ## Ognyan
 
