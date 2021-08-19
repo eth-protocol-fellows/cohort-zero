@@ -20,6 +20,7 @@
     - [Update #1](#kolby-update-1)
     - [Update #2](#kolby-update-2)
     - [Update #3](#kolby-update-3)
+    - [Update #4](#kolby-update-4)
 - [Mike](#mike)
     - [Update #1](#mike-update-1)
 - [Namra](#namra)
@@ -126,6 +127,10 @@ https://hackmd.io/vBINdl8YTh-gxOfDr7ZUHA
 ### Kolby: Update 3
 
 https://hackmd.io/TJ7AKs4-QBmdPGGxEuY2ig
+
+### Kolby: Update 4
+
+https://hackmd.io/nJEBr6OBRa6z4C4ZxOrf8w
 
 ## Mike
 
