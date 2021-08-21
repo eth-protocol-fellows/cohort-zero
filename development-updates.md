@@ -40,6 +40,7 @@
     - [Update #2](#potuz-update-2)
 - [Victor](#victor)
     - [Update #1](#victor-update-1)
+    - [Update #2](#victor-update-2)
 - [Voith](#voith)
     - [Update #1](#voith-update-1)
     - [Update #2](#voith-update-2)
@@ -224,11 +225,14 @@ https://hackmd.io/@potuz/rJX9iD30u
 
 ## Victor
 
-Development updates from [`funkymonks`](https://github.com/victor-wei126)
+Development updates from [`new~weiv`](https://github.com/victor-wei126)
 
 ### Victor: Update 1
 
-https://hackmd.io/@6RDftSXaRAuyfQjhzN0Abw/B1ByWBU6u
+[Update #1](https://hackmd.io/@6RDftSXaRAuyfQjhzN0Abw/B1ByWBU6u)
+
+### Victor: Update 2
+[Update #2](https://hackmd.io/@6RDftSXaRAuyfQjhzN0Abw/Hyu6KSjC_)
 
 ## Voith
 
