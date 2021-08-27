@@ -45,7 +45,9 @@
     - [Update #1](#voith-update-1)
     - [Update #2](#voith-update-2)
     - [Update #3](#voith-update-3)
-
+- [Ying Tong](#ying-tong)
+    - [Update #1](#ying-tong-update-1)
+    - [Update #1](#ying-tong-update-2)
 
 ## Contributing
 
@@ -261,5 +263,8 @@ https://hackmd.io/UG8Q0RbsTDS-dgKZr9EEIg
 
 Development updates from [`therealyingtong`](https://github.com/therealyingtong)
 
-### Ying Tong: Update 1 (1 July 2021)
+### Ying Tong: Update 1
 An introduction to the zkEVM project, and links to initial development on the spec and PoC implementation. [(Link to post)](./notes/yingtong/update_1.md)
+
+### Ying Tong: Update 2
+Progress on primitives and opcodes. [(Link to post)](./notes/yingtong/update_2.md)
