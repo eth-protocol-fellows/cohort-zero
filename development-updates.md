@@ -112,7 +112,9 @@ Development Updates from [`Nhlanhla`](https://github.com/NhlanhlaHasane)
 > - Ethereum Client 101
 > - Mastering Ethereum
 > - EIP1559 FAQ
-> - EVM
+> - ETHEREUM VIRTUAL MACHINE 
+> - Explaining core system Ethereum Virtual Machine 
+> - This is a guide to understanding the EVM, its relationship with solidity, and how to use some debugging tools.
 > - Eth2 Updates
  
 
