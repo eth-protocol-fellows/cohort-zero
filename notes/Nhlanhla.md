@@ -41,6 +41,7 @@
   Resources 
   - [ETHEREUM VIRTUAL MACHINE](https://ethereum.org/en/developers/docs/evm/)
   - [Explaining core system Ethereum Virtual Machine](https://hackmd.io/@Nhlanhla/SyIOqbUyK)
+  - [This is a guide to understanding the EVM, its relationship with solidity, and how to use some debugging tools.](https://hackmd.io/@Nhlanhla/BJVHIOibt)
 # Phase 2
   Resources 
   - [Eth2 Upgrades](https://ethereum.org/en/eth2/)
