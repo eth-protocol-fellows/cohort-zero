@@ -47,6 +47,7 @@
     - [Update #1](#voith-update-1)
     - [Update #2](#voith-update-2)
     - [Update #3](#voith-update-3)
+    - [Update #4](#voith-update-4)
 - [Ying Tong](#ying-tong)
     - [Update #1](#ying-tong-update-1)
     - [Update #1](#ying-tong-update-2)
@@ -270,6 +271,12 @@ Implemented contract creation, `CREATE` and `RETURN` opcodes in the `eth1-specs`
 project.
 
 https://hackmd.io/UG8Q0RbsTDS-dgKZr9EEIg
+
+### Voith: Update 4
+
+Implemented opcodes `CALL`, `CALLCODE` and `SELFDESTRUCT`
+
+https://hackmd.io/jlQf5rTtRh6_R1p7XFVAbw
 
 ## Ying Tong
 
