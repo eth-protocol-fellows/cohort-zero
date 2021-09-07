@@ -10,6 +10,7 @@
     - [Update #2](#albus-update-2)
 - [Austin](#austin)
     - [Update #1](#austin-update-1)
+    - [Update #2](#austin-update-2)
 - [Jacob](#jacob)
     - [Update #1](#jacob-update-1)
     - [Update #2](#jacob-update-2)
@@ -84,6 +85,9 @@ Development updates from [`austinlhx`](https://github.com/austinlhx)
 
 https://hackmd.io/@austinlhx/HyJIZHqnd
 
+### Austin: Update 2
+[https://hackmd.io/@austinlhx/S117Kii2d](https://hackmd.io/@austinlhx/S117Kii2d)
+
 ## <a name="jacob" /> Jacob
 
 Development updates from [`jacobkaufmann`](https://github.com/jacobkaufmann)
@@ -93,7 +97,7 @@ Development updates from [`jacobkaufmann`](https://github.com/jacobkaufmann)
 [Update 1](https://hackmd.io/@rGyFfB9KSzmVchM5WxNqIQ/r150mEy0_)
 
 ### <a name="jacob-update-2" /> Jacob: Update 2
-
+https://hackmd.io/@austinlhx/S117Kii2d
 [Update 2](https://hackmd.io/re6ewnUsQOWQrOyVkeQOYw)
 
 ### <a name="jacob-update-3" /> Jacob: Update 3
