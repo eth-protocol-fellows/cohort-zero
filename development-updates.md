@@ -32,6 +32,7 @@
     - [Update #1](#norswap-update-1)
     - [Update #2](#norswap-update-2)
     - [Update #3](#norswap-update-3)
+    - [Update #4](#norswap-update-4)
 - [Ognyan](#ognyan)
     - [Update #1](#ognyan-update-1)
     - [Update #2](#ognyan-update-2)
@@ -113,22 +114,22 @@ Development Updates from [`Nhlanhla`](https://github.com/NhlanhlaHasane)
 
 ### Nhlanhla: [Updates](./notes/Nhlanhla.md)
 
-> - Istanbul, zkRollup, and Ethereum throughput limits: an analysis 
+> - Istanbul, zkRollup, and Ethereum throughput limits: an analysis
 > - From zkRollup to accessible identities for all
-> - Create your first Zero-knowledge snark circuit using circom and snarkjs 
+> - Create your first Zero-knowledge snark circuit using circom and snarkjs
 > - Markle trees: a visual introduction
-> - Sparse Merkle trees: a visual introduction 
+> - Sparse Merkle trees: a visual introduction
 > - Zero-Knowledge Proofs for Engineers: Introduction
 > - ZKPs for Engineers: A look at the Dark Forest ZKPs
 > - CHOOSING AN ETHEREUM CLIENT
 > - Ethereum Client 101
 > - Mastering Ethereum
 > - EIP1559 FAQ
-> - ETHEREUM VIRTUAL MACHINE 
-> - Explaining core system Ethereum Virtual Machine 
+> - ETHEREUM VIRTUAL MACHINE
+> - Explaining core system Ethereum Virtual Machine
 > - This is a guide to understanding the EVM, its relationship with solidity, and how to use some debugging tools.
 > - Eth2 Updates
- 
+
 
 ## Kolby
 
@@ -200,6 +201,14 @@ tl;dr: Wrote about [address space extension
 (ASE)](https://ethereum-magicians.org/t/thoughts-on-address-space-extension-ase/6779)
 and [how to mitigate MEV sandwich attacks at the protocol
 level](https://ethresear.ch/t/mitigating-sandwich-attacks-at-the-protocol-level/10298/).
+
+### Norswap: Update 4
+
+[Link to
+update.](https://norswap.notion.site/Dev-Update-4-a2359d2c75274578a3e37b1ee368987f)
+
+tl;dr: Implemented partial block validation in nanoeth, implemented Merkle trees
+& working on debugging them.
 
 ## Ognyan
 
