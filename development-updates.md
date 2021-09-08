@@ -26,6 +26,7 @@
     - [Update #5](#kolby-update-5)
 - [Mike](#mike)
     - [Update #1](#mike-update-1)
+    - [Update #2](#mike-update-2)
 - [Namra](#namra)
     - [Update #1](#namra-update-1)
 - [Nicolas (Norswap)](#nicolas-norswap)
@@ -162,6 +163,10 @@ Development updates from [Mike Ferris](https://github.com/mrferris)
 ### Mike: Update 1
 
 https://hackmd.io/4BxIUm1JRdyM1-XE0Rhx7Q
+
+### Mike: Update 2
+
+https://hackmd.io/@mikeferris/rkmPc4BzY
 
 ## Namra
 
