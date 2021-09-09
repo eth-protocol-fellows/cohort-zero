@@ -10,6 +10,7 @@
     - [Update #2](#albus-update-2)
 - [Austin](#austin)
     - [Update #1](#austin-update-1)
+    - [Update #2](#austin-update-2)
 - [Jacob](#jacob)
     - [Update #1](#jacob-update-1)
     - [Update #2](#jacob-update-2)
@@ -85,6 +86,9 @@ Development updates from [`austinlhx`](https://github.com/austinlhx)
 ### Austin: Update 1
 
 https://hackmd.io/@austinlhx/HyJIZHqnd
+
+### Austin: Update 2
+https://hackmd.io/@austinlhx/S117Kii2d
 
 ## <a name="jacob" /> Jacob
 
