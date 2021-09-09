@@ -86,7 +86,7 @@ Development updates from [`austinlhx`](https://github.com/austinlhx)
 https://hackmd.io/@austinlhx/HyJIZHqnd
 
 ### Austin: Update 2
-[https://hackmd.io/@austinlhx/S117Kii2d](https://hackmd.io/@austinlhx/S117Kii2d)
+[https://hackmd.io/@austinlhx/S117Kii2d]
 
 ## <a name="jacob" /> Jacob
 
