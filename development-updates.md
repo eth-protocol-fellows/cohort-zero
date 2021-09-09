@@ -52,6 +52,7 @@
     - [Update #2](#voith-update-2)
     - [Update #3](#voith-update-3)
     - [Update #4](#voith-update-4)
+    - [Update #5](#voith-update-5)
 - [Ying Tong](#ying-tong)
     - [Update #1](#ying-tong-update-1)
     - [Update #1](#ying-tong-update-2)
@@ -279,28 +280,36 @@ Development updates from [`voith`](https://github.com/voith/)
 
 ### Voith: Update 1
 
-Implemented header verification in the `eth1-specs` project.
+Implemented header verification in the `eth1-specs` repo.
 
-https://hackmd.io/BeIhhcrTTz29YvA_o_m5nw
+https://hackmd.io/@voith/B1nMVxsJK
 
 ### Voith: Update 2
 
-Implemented memory operation opcodes in the `eth1-specs` project.
+Implemented memory operation opcodes in the `execution-specs` repo.
 
-https://hackmd.io/huh4-cPTQXyNy8tGfTCS1A
+https://hackmd.io/@voith/r1kDVzjyt
 
 ### Voith: Update 3
 
-Implemented contract creation, `CREATE` and `RETURN` opcodes in the `eth1-specs`
-project.
+Implemented contract creation, `CREATE` and `RETURN` opcodes in the 
+`execution-specs` repo.
 
-https://hackmd.io/UG8Q0RbsTDS-dgKZr9EEIg
+https://hackmd.io/@voith/BkFj6WsyF
 
 ### Voith: Update 4
 
-Implemented opcodes `CALL`, `CALLCODE` and `SELFDESTRUCT`
+Implemented opcodes `CALL`, `CALLCODE` and `SELFDESTRUCT` in the 
+`execution-specs` repo. 
 
-https://hackmd.io/jlQf5rTtRh6_R1p7XFVAbw
+https://hackmd.io/@voith/r1OSISaWK
+
+### Voith: Update 5
+
+Implemented precompiled contracts as specified in the frontier version of the 
+yellow paper in the `execution-specs` repo.
+
+https://hackmd.io/@voith/Skn2KDPzY
 
 ## Ying Tong
 
