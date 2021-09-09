@@ -97,7 +97,7 @@ Development updates from [`jacobkaufmann`](https://github.com/jacobkaufmann)
 [Update 1](https://hackmd.io/@rGyFfB9KSzmVchM5WxNqIQ/r150mEy0_)
 
 ### <a name="jacob-update-2" /> Jacob: Update 2
-https://hackmd.io/@austinlhx/S117Kii2d
+
 [Update 2](https://hackmd.io/re6ewnUsQOWQrOyVkeQOYw)
 
 ### <a name="jacob-update-3" /> Jacob: Update 3
