@@ -121,6 +121,7 @@ Development Updates from [`Nhlanhla`](https://github.com/NhlanhlaHasane)
 
 ### Nhlanhla: [Updates](./notes/Nhlanhla.md)
 
+> - Ethereum SNAPSHOT Protocol from devp2p
 > - Istanbul, zkRollup, and Ethereum throughput limits: an analysis
 > - From zkRollup to accessible identities for all
 > - Create your first Zero-knowledge snark circuit using circom and snarkjs
