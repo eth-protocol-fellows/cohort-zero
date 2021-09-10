@@ -48,6 +48,7 @@
 - [Victor](#victor)
     - [Update #1](#victor-update-1)
     - [Update #2](#victor-update-2)
+    - [Update #3](#victor-update-3)
 - [Voith](#voith)
     - [Update #1](#voith-update-1)
     - [Update #2](#voith-update-2)
@@ -272,11 +273,13 @@ https://hackmd.io/@potuz/rJX9iD30u
 Development updates from [`new~weiv`](https://github.com/victor-wei126)
 
 ### Victor: Update 1
-
 [Update #1](https://hackmd.io/@6RDftSXaRAuyfQjhzN0Abw/B1ByWBU6u)
 
 ### Victor: Update 2
 [Update #2](https://hackmd.io/@6RDftSXaRAuyfQjhzN0Abw/Hyu6KSjC_)
+
+### Victor: Update 3
+[Update #3](https://hackmd.io/@6RDftSXaRAuyfQjhzN0Abw/S1vDyfufF)
 
 ## Voith
 
