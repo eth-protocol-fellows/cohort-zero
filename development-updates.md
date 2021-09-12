@@ -11,6 +11,9 @@
 - [Austin](#austin)
     - [Update #1](#austin-update-1)
     - [Update #2](#austin-update-2)
+
+- [CheeChyuan](#cheechyuan)
+    - [Update #1](#cheechyuan-update-1)   
 - [Jacob](#jacob)
     - [Update #1](#jacob-update-1)
     - [Update #2](#jacob-update-2)
@@ -90,6 +93,14 @@ https://hackmd.io/@austinlhx/HyJIZHqnd
 
 ### Austin: Update 2
 https://hackmd.io/@austinlhx/S117Kii2d
+
+## <a name="cheechyuan" /> Chee Chyuan
+
+Development updates from [`chee-chyuan`](https://github.com/chee-chyuan)
+
+### <a name="cheechyuan-update-1" /> Chee Chyuan: Update 1
+
+[Update 1](https://hackmd.io/DeEuiIt0Sfq3Q1ukgLoEJQ?view)
 
 ## <a name="jacob" /> Jacob
 
