@@ -35,6 +35,7 @@
 # DEVP2P
   Resources
   - [Ethereum SNAPSHOT Protocol](https://hackmd.io/@Nhlanhla/Bykc2YXGY)
+  - [The RLPx Transport Protocol](https://hackmd.io/@Nhlanhla/SJv3wnhMK)
 
 # EIP1559
   Resources 
