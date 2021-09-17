@@ -14,7 +14,7 @@
     - [Update #2](#austin-update-2)
 
 - [CheeChyuan](#cheechyuan)
-    - [Update #1](#cheechyuan-update-1)   
+    - [Update #1](#cheechyuan-update-1)
 - [Jacob](#jacob)
     - [Update #1](#jacob-update-1)
     - [Update #2](#jacob-update-2)
@@ -39,6 +39,7 @@
     - [Update #2](#norswap-update-2)
     - [Update #3](#norswap-update-3)
     - [Update #4](#norswap-update-4)
+    - [Update #5](#norswap-update-5)
 - [Ognyan](#ognyan)
     - [Update #1](#ognyan-update-1)
     - [Update #2](#ognyan-update-2)
@@ -239,6 +240,13 @@ update.](https://norswap.notion.site/Dev-Update-4-a2359d2c75274578a3e37b1ee36898
 tl;dr: Implemented partial block validation in nanoeth, implemented Merkle trees
 & working on debugging them.
 
+### Norswap: Update 5
+
+[Link to
+update.](https://norswap.notion.site/Dev-Update-5-404512ed7ae844769a76a3c7df6b890e)
+
+tl;dr: Read on SNARKs & the beacon chain, finished Merkle tree implementation.
+
 ## Ognyan
 
 Development updates from [`ogenev`](https://github.com/ogenev/)
@@ -321,21 +329,21 @@ https://hackmd.io/@voith/r1kDVzjyt
 
 ### Voith: Update 3
 
-Implemented contract creation, `CREATE` and `RETURN` opcodes in the 
+Implemented contract creation, `CREATE` and `RETURN` opcodes in the
 `execution-specs` repo.
 
 https://hackmd.io/@voith/BkFj6WsyF
 
 ### Voith: Update 4
 
-Implemented opcodes `CALL`, `CALLCODE` and `SELFDESTRUCT` in the 
-`execution-specs` repo. 
+Implemented opcodes `CALL`, `CALLCODE` and `SELFDESTRUCT` in the
+`execution-specs` repo.
 
 https://hackmd.io/@voith/r1OSISaWK
 
 ### Voith: Update 5
 
-Implemented precompiled contracts as specified in the frontier version of the 
+Implemented precompiled contracts as specified in the frontier version of the
 yellow paper in the `execution-specs` repo.
 
 https://hackmd.io/@voith/Skn2KDPzY
