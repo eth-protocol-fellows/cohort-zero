@@ -8,8 +8,13 @@
 - [Albus](#albus)
     - [Update #1](#albus-update-1)
     - [Update #2](#albus-update-2)
+    - [Update #3](#albus-update-3)
 - [Austin](#austin)
     - [Update #1](#austin-update-1)
+    - [Update #2](#austin-update-2)
+
+- [CheeChyuan](#cheechyuan)
+    - [Update #1](#cheechyuan-update-1)
 - [Jacob](#jacob)
     - [Update #1](#jacob-update-1)
     - [Update #2](#jacob-update-2)
@@ -35,11 +40,13 @@
     - [Update #2](#norswap-update-2)
     - [Update #3](#norswap-update-3)
     - [Update #4](#norswap-update-4)
+    - [Update #5](#norswap-update-5)
 - [Ognyan](#ognyan)
     - [Update #1](#ognyan-update-1)
     - [Update #2](#ognyan-update-2)
     - [Update #3](#ognyan-update-3)
     - [Update #4](#ognyan-update-4)
+    - [Update #5](#ognyan-update-5)
 - [Piper](#piper)
     - [Update #1](#piper-update-1)
 - [Potuz](#potuz)
@@ -48,11 +55,13 @@
 - [Victor](#victor)
     - [Update #1](#victor-update-1)
     - [Update #2](#victor-update-2)
+    - [Update #3](#victor-update-3)
 - [Voith](#voith)
     - [Update #1](#voith-update-1)
     - [Update #2](#voith-update-2)
     - [Update #3](#voith-update-3)
     - [Update #4](#voith-update-4)
+    - [Update #5](#voith-update-5)
 - [Ying Tong](#ying-tong)
     - [Update #1](#ying-tong-update-1)
     - [Update #1](#ying-tong-update-2)
@@ -78,6 +87,10 @@ Development updates from [`adompeldorius`](https://github.com/adompeldorius)
 
 [https://hackmd.io/@albus/rkAbjAsWF](https://hackmd.io/@albus/rkAbjAsWF)
 
+### Albus: Update 3
+
+[https://hackmd.io/@albus/rJRfbIRft](https://hackmd.io/@albus/rJRfbIRft)
+
 ## Austin
 
 Development updates from [`austinlhx`](https://github.com/austinlhx)
@@ -85,6 +98,17 @@ Development updates from [`austinlhx`](https://github.com/austinlhx)
 ### Austin: Update 1
 
 https://hackmd.io/@austinlhx/HyJIZHqnd
+
+### Austin: Update 2
+https://hackmd.io/@austinlhx/S117Kii2d
+
+## <a name="cheechyuan" /> Chee Chyuan
+
+Development updates from [`chee-chyuan`](https://github.com/chee-chyuan)
+
+### <a name="cheechyuan-update-1" /> Chee Chyuan: Update 1
+
+[Update 1](https://hackmd.io/DeEuiIt0Sfq3Q1ukgLoEJQ?view)
 
 ## <a name="jacob" /> Jacob
 
@@ -116,6 +140,7 @@ Development Updates from [`Nhlanhla`](https://github.com/NhlanhlaHasane)
 
 ### Nhlanhla: [Updates](./notes/Nhlanhla.md)
 
+> - Ethereum SNAPSHOT Protocol from devp2p
 > - Istanbul, zkRollup, and Ethereum throughput limits: an analysis
 > - From zkRollup to accessible identities for all
 > - Create your first Zero-knowledge snark circuit using circom and snarkjs
@@ -220,6 +245,13 @@ update.](https://norswap.notion.site/Dev-Update-4-a2359d2c75274578a3e37b1ee36898
 tl;dr: Implemented partial block validation in nanoeth, implemented Merkle trees
 & working on debugging them.
 
+### Norswap: Update 5
+
+[Link to
+update.](https://norswap.notion.site/Dev-Update-5-404512ed7ae844769a76a3c7df6b890e)
+
+tl;dr: Read on SNARKs & the beacon chain, finished Merkle tree implementation.
+
 ## Ognyan
 
 Development updates from [`ogenev`](https://github.com/ogenev/)
@@ -239,6 +271,10 @@ Development updates from [`ogenev`](https://github.com/ogenev/)
 ### Ognyan: Update 4
 
 [Update 4](https://hackmd.io/@ogenev/B1xG1KL-t)
+
+### Ognyan: Update 5
+
+[Update 5](https://hackmd.io/@ogenev/HyNI0xBzF)
 
 ## Piper
 
@@ -272,11 +308,13 @@ https://hackmd.io/@potuz/rJX9iD30u
 Development updates from [`new~weiv`](https://github.com/victor-wei126)
 
 ### Victor: Update 1
-
 [Update #1](https://hackmd.io/@6RDftSXaRAuyfQjhzN0Abw/B1ByWBU6u)
 
 ### Victor: Update 2
 [Update #2](https://hackmd.io/@6RDftSXaRAuyfQjhzN0Abw/Hyu6KSjC_)
+
+### Victor: Update 3
+[Update #3](https://hackmd.io/@6RDftSXaRAuyfQjhzN0Abw/S1vDyfufF)
 
 ## Voith
 
@@ -284,28 +322,36 @@ Development updates from [`voith`](https://github.com/voith/)
 
 ### Voith: Update 1
 
-Implemented header verification in the `eth1-specs` project.
+Implemented header verification in the `eth1-specs` repo.
 
-https://hackmd.io/BeIhhcrTTz29YvA_o_m5nw
+https://hackmd.io/@voith/B1nMVxsJK
 
 ### Voith: Update 2
 
-Implemented memory operation opcodes in the `eth1-specs` project.
+Implemented memory operation opcodes in the `execution-specs` repo.
 
-https://hackmd.io/huh4-cPTQXyNy8tGfTCS1A
+https://hackmd.io/@voith/r1kDVzjyt
 
 ### Voith: Update 3
 
-Implemented contract creation, `CREATE` and `RETURN` opcodes in the `eth1-specs`
-project.
+Implemented contract creation, `CREATE` and `RETURN` opcodes in the
+`execution-specs` repo.
 
-https://hackmd.io/UG8Q0RbsTDS-dgKZr9EEIg
+https://hackmd.io/@voith/BkFj6WsyF
 
 ### Voith: Update 4
 
-Implemented opcodes `CALL`, `CALLCODE` and `SELFDESTRUCT`
+Implemented opcodes `CALL`, `CALLCODE` and `SELFDESTRUCT` in the
+`execution-specs` repo.
 
-https://hackmd.io/jlQf5rTtRh6_R1p7XFVAbw
+https://hackmd.io/@voith/r1OSISaWK
+
+### Voith: Update 5
+
+Implemented precompiled contracts as specified in the frontier version of the
+yellow paper in the `execution-specs` repo.
+
+https://hackmd.io/@voith/Skn2KDPzY
 
 ## Ying Tong
 

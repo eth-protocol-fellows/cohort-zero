@@ -4,6 +4,7 @@
 - Zero Knowledge Proofs 
 - Markle tree
 - Client Development
+- devp2p
 - Cryptography
 - EIP1559
 - Ethereum Virtual Machine (EVM)
@@ -30,6 +31,11 @@
    Resources 
   - [Choosing an Ethereum Client](https://www.trufflesuite.com/docs/truffle/reference/choosing-an-ethereum-client)
   - [Ethereum Client 101](https://medium.com/@eth.anBennett/ethereum-clients-101-beginner-geth-parity-full-node-light-client-4bbd87bf1dee)
+
+# DEVP2P
+  Resources
+  - [Ethereum SNAPSHOT Protocol](https://hackmd.io/@Nhlanhla/Bykc2YXGY)
+  - [The RLPx Transport Protocol](https://hackmd.io/@Nhlanhla/SJv3wnhMK)
 
 # EIP1559
   Resources 
