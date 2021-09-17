@@ -27,6 +27,7 @@
 - [Mike](#mike)
     - [Update #1](#mike-update-1)
     - [Update #2](#mike-update-2)
+    - [Update #3](#mike-update-3)
 - [Namra](#namra)
     - [Update #1](#namra-update-1)
 - [Nicolas (Norswap)](#nicolas-norswap)
@@ -167,6 +168,10 @@ https://hackmd.io/4BxIUm1JRdyM1-XE0Rhx7Q
 ### Mike: Update 2
 
 https://hackmd.io/@mikeferris/rkmPc4BzY
+
+### Mike: Update 3
+
+https://hackmd.io/@mikeferris/SJ7jTHGmK
 
 ## Namra
 
