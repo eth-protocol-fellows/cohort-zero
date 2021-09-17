@@ -14,7 +14,7 @@
     - [Update #2](#austin-update-2)
 
 - [CheeChyuan](#cheechyuan)
-    - [Update #1](#cheechyuan-update-1)   
+    - [Update #1](#cheechyuan-update-1)
 - [Jacob](#jacob)
     - [Update #1](#jacob-update-1)
     - [Update #2](#jacob-update-2)
@@ -321,21 +321,21 @@ https://hackmd.io/@voith/r1kDVzjyt
 
 ### Voith: Update 3
 
-Implemented contract creation, `CREATE` and `RETURN` opcodes in the 
+Implemented contract creation, `CREATE` and `RETURN` opcodes in the
 `execution-specs` repo.
 
 https://hackmd.io/@voith/BkFj6WsyF
 
 ### Voith: Update 4
 
-Implemented opcodes `CALL`, `CALLCODE` and `SELFDESTRUCT` in the 
-`execution-specs` repo. 
+Implemented opcodes `CALL`, `CALLCODE` and `SELFDESTRUCT` in the
+`execution-specs` repo.
 
 https://hackmd.io/@voith/r1OSISaWK
 
 ### Voith: Update 5
 
-Implemented precompiled contracts as specified in the frontier version of the 
+Implemented precompiled contracts as specified in the frontier version of the
 yellow paper in the `execution-specs` repo.
 
 https://hackmd.io/@voith/Skn2KDPzY
