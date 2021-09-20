@@ -63,6 +63,7 @@
     - [Update #3](#voith-update-3)
     - [Update #4](#voith-update-4)
     - [Update #5](#voith-update-5)
+    - [Update #6](#voith-update-6)
 - [Ying Tong](#ying-tong)
     - [Update #1](#ying-tong-update-1)
     - [Update #1](#ying-tong-update-2)
@@ -326,7 +327,7 @@ Development updates from [`voith`](https://github.com/voith/)
 
 ### Voith: Update 1
 
-Implemented header verification in the `eth1-specs` repo.
+Implemented header verification in the `execution-specs` repo.
 
 https://hackmd.io/@voith/B1nMVxsJK
 
@@ -356,6 +357,13 @@ Implemented precompiled contracts as specified in the frontier version of the
 yellow paper in the `execution-specs` repo.
 
 https://hackmd.io/@voith/Skn2KDPzY
+
+### Voith: Update 6
+
+Got all `Frontier` state tests to pass and fixed all the bugs
+encountered while doing so.
+
+https://hackmd.io/@voith/BJx9M1UXY
 
 ## Ying Tong
 
