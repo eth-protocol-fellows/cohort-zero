@@ -56,6 +56,7 @@
     - [Update #1](#victor-update-1)
     - [Update #2](#victor-update-2)
     - [Update #3](#victor-update-3)
+    - [Update #4](#victor-update-4)
 - [Voith](#voith)
     - [Update #1](#voith-update-1)
     - [Update #2](#voith-update-2)
@@ -315,6 +316,9 @@ Development updates from [`new~weiv`](https://github.com/victor-wei126)
 
 ### Victor: Update 3
 [Update #3](https://hackmd.io/@6RDftSXaRAuyfQjhzN0Abw/S1vDyfufF)
+
+### Victor: Update 4
+[Update #4](https://hackmd.io/@6RDftSXaRAuyfQjhzN0Abw/Byn-cmNmY)
 
 ## Voith
 
