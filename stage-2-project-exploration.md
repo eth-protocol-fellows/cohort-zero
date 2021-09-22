@@ -13,7 +13,7 @@ The deliverable at this stage should be one or more documents which provide a th
 
 ### 1. Concise Summary
 
-A concise summary of what you are proposing. Something high level but with enough detail that it captures what you are plannign to work on. Think of this as an "abstract".
+A concise summary of what you are proposing. Something high level but with enough detail that it captures what you are planning to work on. Think of this as an "abstract".
 
 
 ### 2. Rational
