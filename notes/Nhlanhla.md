@@ -36,6 +36,7 @@
   Resources
   - [Ethereum SNAPSHOT Protocol](https://hackmd.io/@Nhlanhla/Bykc2YXGY)
   - [The RLPx Transport Protocol](https://hackmd.io/@Nhlanhla/SJv3wnhMK)
+  - [Ethereum Wire Protocol (ETH)](https://hackmd.io/@Nhlanhla/HkIHa9r7K)
 
 # EIP1559
   Resources 
