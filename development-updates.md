@@ -12,6 +12,7 @@
 - [Austin](#austin)
     - [Update #1](#austin-update-1)
     - [Update #2](#austin-update-2)
+    - [Update #3](#austin-update-3)
 
 - [CheeChyuan](#cheechyuan)
     - [Update #1](#cheechyuan-update-1)
@@ -103,6 +104,9 @@ https://hackmd.io/@austinlhx/HyJIZHqnd
 
 ### Austin: Update 2
 https://hackmd.io/@austinlhx/S117Kii2d
+
+### Austin: Update 3
+https://hackmd.io/@austinlhx/SJnGorRmF
 
 ## <a name="cheechyuan" /> Chee Chyuan
 
