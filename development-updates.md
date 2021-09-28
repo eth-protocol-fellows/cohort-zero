@@ -22,6 +22,7 @@
     - [Update #3](#jacob-update-3)
     - [Update #4](#jacob-update-4)
     - [Update #5](#jacob-update-5)
+    - [Update #6](#jacob-update-6)
 - [Nhlanhla](#nhlanhla)
     - [Updates](#nhlanhla-updates)
 - [Kolby](#kolby)
@@ -139,6 +140,10 @@ Development updates from [`jacobkaufmann`](https://github.com/jacobkaufmann)
 ### <a name="jacob-update-5" /> Jacob: Update 5
 
 [Update 5](https://hackmd.io/dvgt2YrdRFa_qGFdChmsvQ)
+
+### <a name="jacob-update-6" /> Jacob: Update 6
+
+[Update 6](https://hackmd.io/Q4Am2VWPR-qn8Lm9xDKAPg)
 
 ## Nhlanhla
 
