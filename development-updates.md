@@ -151,7 +151,27 @@ Development Updates from [`Nhlanhla`](https://github.com/NhlanhlaHasane)
 
 ### Nhlanhla: [Updates](./notes/Nhlanhla.md)
 
+[Weekly update ( 24th September 2021 - 30th September 2021)](https://hackmd.io/@Nhlanhla/Hk8XqgJVF)
+
+> - Light Ethereum Subprotocol(LES) from devp2p
+
+[Weekly update ( 17th September 2021 - 23th September 2021)](https://hackmd.io/@Nhlanhla/HkIHa9r7K)
+
+> - Ethereum Wire Protocol from devp2p
+
+[Weekly update ( 10th September 2021 - 16th September 2021)](https://hackmd.io/@Nhlanhla/SJv3wnhMK)
+
+> - The RLPx Transport Protocol from devp2p
+
+[Weekly update ( 3rd September 2021 - 9th September 2021)](https://hackmd.io/@Nhlanhla/Bykc2YXGY)
+
 > - Ethereum SNAPSHOT Protocol from devp2p
+
+[Weekly update ( 27th August 2021 - 2nd September 2021)](https://hackmd.io/@Nhlanhla/BJVHIOibt)
+
+> - Guide to understanding the EVM, its relationship with solidity and how to use some debugging tools
+
+[Weakly Update ( from starting program until 26th August 2021)]()
 > - Istanbul, zkRollup, and Ethereum throughput limits: an analysis
 > - From zkRollup to accessible identities for all
 > - Create your first Zero-knowledge snark circuit using circom and snarkjs
