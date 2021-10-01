@@ -7,6 +7,7 @@
 - resume: XXXX
 - other stuff: XXX
 - location: Colorado, United States
+- CDAP notes: [`./notes/piper.md`](./../notes/piper.md)
 
 ## About Me
 
@@ -20,6 +21,12 @@ I'm a software engineer who works full time on the Ethereum core protocol.  I ru
 > What did you spend your time in CDAP doing?
 
 During the course of the apprenticeship program ...
+
+## Development Updates
+
+You can read more about the work I did during the program in my development updates:
+
+- [Update 1](#TODO)
 
 
 ## Job Stuff
