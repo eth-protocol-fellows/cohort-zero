@@ -56,6 +56,7 @@
 - [Potuz](#potuz)
     - [Update #1](#potuz-update-1)
     - [Update #2](#potuz-update-2)
+    - [Update #3](#potuz-update-3)
 - [Victor](#victor)
     - [Update #1](#victor-update-1)
     - [Update #2](#victor-update-2)
@@ -323,6 +324,25 @@ Implemented assembly of hashing algorithm and surpassed performance of existing
 client implementations by 40%. Notes in
 
 https://hackmd.io/@potuz/rJX9iD30u
+
+### Potuz: Update 3
+
+Here are some things that I have been working in the last few weeks. Spent time
+diagnosing a problem that was costing money to large stakers on mainnet. This
+lead to Prysm's handling of pending attestation queue. The final design is in 
+
+https://hackmd.io/@potuz/B1yC3gFNY
+
+and the associated PRs for prysm are 
+
+https://github.com/prysmaticlabs/prysm/pull/9679
+https://github.com/prysmaticlabs/prysm/pull/9699
+
+Also started adding ARM assembly to [mammon's](https://github.com/potuz/mammon)
+hasher to export it as a library for prysm to use.
+
+https://github.com/prysmaticlabs/prysm/issues/9389
+
 
 ## Victor
 
