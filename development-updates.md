@@ -23,8 +23,6 @@
     - [Update #3](#jacob-update-3)
     - [Update #4](#jacob-update-4)
     - [Update #5](#jacob-update-5)
-- [Nhlanhla](#nhlanhla)
-    - [Updates](#nhlanhla-updates)
 - [Kolby](#kolby)
     - [Update #1](#kolby-update-1)
     - [Update #2](#kolby-update-2)
@@ -37,6 +35,8 @@
     - [Update #3](#mike-update-3)
 - [Namra](#namra)
     - [Update #1](#namra-update-1)
+- [Nhlanhla](#nhlanhla)
+    - [Updates](#nhlanhla-updates)
 - [Nicolas (Norswap)](#nicolas-norswap)
     - [Update #1](#norswap-update-1)
     - [Update #2](#norswap-update-2)
@@ -145,48 +145,7 @@ Development updates from [`jacobkaufmann`](https://github.com/jacobkaufmann)
 
 [Update 5](https://hackmd.io/dvgt2YrdRFa_qGFdChmsvQ)
 
-## Nhlanhla
 
-Development Updates from [`Nhlanhla`](https://github.com/NhlanhlaHasane)
-
-### Nhlanhla: [Updates](./notes/Nhlanhla.md)
-
-[Weekly update ( 24th September 2021 - 30th September 2021)](https://hackmd.io/@Nhlanhla/Hk8XqgJVF)
-
-> - Light Ethereum Subprotocol(LES) from devp2p
-
-[Weekly update ( 17th September 2021 - 23th September 2021)](https://hackmd.io/@Nhlanhla/HkIHa9r7K)
-
-> - Ethereum Wire Protocol from devp2p
-
-[Weekly update ( 10th September 2021 - 16th September 2021)](https://hackmd.io/@Nhlanhla/SJv3wnhMK)
-
-> - The RLPx Transport Protocol from devp2p
-
-[Weekly update ( 3rd September 2021 - 9th September 2021)](https://hackmd.io/@Nhlanhla/Bykc2YXGY)
-
-> - Ethereum SNAPSHOT Protocol from devp2p
-
-[Weekly update ( 27th August 2021 - 2nd September 2021)](https://hackmd.io/@Nhlanhla/BJVHIOibt)
-
-> - Guide to understanding the EVM, its relationship with solidity and how to use some debugging tools
-
-[Weakly Update ( from starting program until 26th August 2021)]()
-> - Istanbul, zkRollup, and Ethereum throughput limits: an analysis
-> - From zkRollup to accessible identities for all
-> - Create your first Zero-knowledge snark circuit using circom and snarkjs
-> - Markle trees: a visual introduction
-> - Sparse Merkle trees: a visual introduction
-> - Zero-Knowledge Proofs for Engineers: Introduction
-> - ZKPs for Engineers: A look at the Dark Forest ZKPs
-> - CHOOSING AN ETHEREUM CLIENT
-> - Ethereum Client 101
-> - Mastering Ethereum
-> - EIP1559 FAQ
-> - ETHEREUM VIRTUAL MACHINE
-> - Explaining core system Ethereum Virtual Machine
-> - This is a guide to understanding the EVM, its relationship with solidity, and how to use some debugging tools.
-> - Eth2 Updates
 
 
 ## Kolby
@@ -236,6 +195,49 @@ Development updates from [Namra Patel](https://github.com/namrapatel)
 ### Namra: Update 1
 
 https://hackmd.io/SadmTvqlSWa6tVFcYa6wdA?view
+
+## Nhlanhla
+
+Development Updates from [`Nhlanhla`](https://github.com/NhlanhlaHasane)
+
+### Nhlanhla: [Updates](./notes/Nhlanhla.md)
+
+[Weekly update ( 24th September 2021 - 30th September 2021)](https://hackmd.io/@Nhlanhla/Hk8XqgJVF)
+
+> - Light Ethereum Subprotocol(LES) from devp2p
+
+[Weekly update ( 17th September 2021 - 23th September 2021)](https://hackmd.io/@Nhlanhla/HkIHa9r7K)
+
+> - Ethereum Wire Protocol from devp2p
+
+[Weekly update ( 10th September 2021 - 16th September 2021)](https://hackmd.io/@Nhlanhla/SJv3wnhMK)
+
+> - The RLPx Transport Protocol from devp2p
+
+[Weekly update ( 3rd September 2021 - 9th September 2021)](https://hackmd.io/@Nhlanhla/Bykc2YXGY)
+
+> - Ethereum SNAPSHOT Protocol from devp2p
+
+[Weekly update ( 27th August 2021 - 2nd September 2021)](https://hackmd.io/@Nhlanhla/BJVHIOibt)
+
+> - Guide to understanding the EVM, its relationship with solidity and how to use some debugging tools
+
+[Weekly Update ( from starting program until 26th August 2021)]()
+> - Istanbul, zkRollup, and Ethereum throughput limits: an analysis
+> - From zkRollup to accessible identities for all
+> - Create your first Zero-knowledge snark circuit using circom and snarkjs
+> - Markle trees: a visual introduction
+> - Sparse Merkle trees: a visual introduction
+> - Zero-Knowledge Proofs for Engineers: Introduction
+> - ZKPs for Engineers: A look at the Dark Forest ZKPs
+> - CHOOSING AN ETHEREUM CLIENT
+> - Ethereum Client 101
+> - Mastering Ethereum
+> - EIP1559 FAQ
+> - ETHEREUM VIRTUAL MACHINE
+> - Explaining core system Ethereum Virtual Machine
+> - This is a guide to understanding the EVM, its relationship with solidity, and how to use some debugging tools.
+> - Eth2 Updates
 
 ## Nicolas (Norswap)
 
