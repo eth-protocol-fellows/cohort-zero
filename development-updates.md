@@ -23,6 +23,7 @@
     - [Update #3](#jacob-update-3)
     - [Update #4](#jacob-update-4)
     - [Update #5](#jacob-update-5)
+    - [Update #6](#jacob-update-6)
 - [Kolby](#kolby)
     - [Update #1](#kolby-update-1)
     - [Update #2](#kolby-update-2)
@@ -49,11 +50,13 @@
     - [Update #3](#ognyan-update-3)
     - [Update #4](#ognyan-update-4)
     - [Update #5](#ognyan-update-5)
+    - [Update #6](#ognyan-update-6)
 - [Piper](#piper)
     - [Update #1](#piper-update-1)
 - [Potuz](#potuz)
     - [Update #1](#potuz-update-1)
     - [Update #2](#potuz-update-2)
+    - [Update #3](#potuz-update-3)
 - [Victor](#victor)
     - [Update #1](#victor-update-1)
     - [Update #2](#victor-update-2)
@@ -145,7 +148,9 @@ Development updates from [`jacobkaufmann`](https://github.com/jacobkaufmann)
 
 [Update 5](https://hackmd.io/dvgt2YrdRFa_qGFdChmsvQ)
 
+### <a name="jacob-update-6" /> Jacob: Update 6
 
+[Update 6](https://hackmd.io/Q4Am2VWPR-qn8Lm9xDKAPg)
 
 
 ## Kolby
@@ -309,6 +314,10 @@ Development updates from [`ogenev`](https://github.com/ogenev/)
 
 [Update 5](https://hackmd.io/@ogenev/HyNI0xBzF)
 
+### Ognyan: Update 6
+
+[Update 6](https://hackmd.io/@ogenev/HJHLG7s4K)
+
 ## Piper
 
 Development updates from [`pipermerriam`](https://github.com/pipermerriam/)
@@ -335,6 +344,25 @@ Implemented assembly of hashing algorithm and surpassed performance of existing
 client implementations by 40%. Notes in
 
 https://hackmd.io/@potuz/rJX9iD30u
+
+### Potuz: Update 3
+
+Here are some things that I have been working in the last few weeks. Spent time
+diagnosing a problem that was costing money to large stakers on mainnet. This
+lead to Prysm's handling of pending attestation queue. The final design is in 
+
+https://hackmd.io/@potuz/B1yC3gFNY
+
+and the associated PRs for prysm are 
+
+https://github.com/prysmaticlabs/prysm/pull/9679
+https://github.com/prysmaticlabs/prysm/pull/9699
+
+Also started adding ARM assembly to [mammon's](https://github.com/potuz/mammon)
+hasher to export it as a library for prysm to use.
+
+https://github.com/prysmaticlabs/prysm/issues/9389
+
 
 ## Victor
 
