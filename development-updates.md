@@ -9,9 +9,11 @@
     - [Update #1](#albus-update-1)
     - [Update #2](#albus-update-2)
     - [Update #3](#albus-update-3)
+    - [Update #4](#albus-update-4)
 - [Austin](#austin)
     - [Update #1](#austin-update-1)
     - [Update #2](#austin-update-2)
+    - [Update #3](#austin-update-3)
 
 - [CheeChyuan](#cheechyuan)
     - [Update #1](#cheechyuan-update-1)
@@ -21,14 +23,14 @@
     - [Update #3](#jacob-update-3)
     - [Update #4](#jacob-update-4)
     - [Update #5](#jacob-update-5)
-- [Nhlanhla](#nhlanhla)
-    - [Updates](#nhlanhla-updates)
+    - [Update #6](#jacob-update-6)
 - [Kolby](#kolby)
     - [Update #1](#kolby-update-1)
     - [Update #2](#kolby-update-2)
     - [Update #3](#kolby-update-3)
     - [Update #4](#kolby-update-4)
     - [Update #5](#kolby-update-5)
+    - [Update #6](#kolby-update-6)
 - [Mike](#mike)
     - [Update #1](#mike-update-1)
     - [Update #2](#mike-update-2)
@@ -36,6 +38,8 @@
     - [Update #4](#mike-update-4)
 - [Namra](#namra)
     - [Update #1](#namra-update-1)
+- [Nhlanhla](#nhlanhla)
+    - [Updates](#nhlanhla-updates)
 - [Nicolas (Norswap)](#nicolas-norswap)
     - [Update #1](#norswap-update-1)
     - [Update #2](#norswap-update-2)
@@ -48,21 +52,26 @@
     - [Update #3](#ognyan-update-3)
     - [Update #4](#ognyan-update-4)
     - [Update #5](#ognyan-update-5)
+    - [Update #6](#ognyan-update-6)
 - [Piper](#piper)
     - [Update #1](#piper-update-1)
 - [Potuz](#potuz)
     - [Update #1](#potuz-update-1)
     - [Update #2](#potuz-update-2)
+    - [Update #3](#potuz-update-3)
 - [Victor](#victor)
     - [Update #1](#victor-update-1)
     - [Update #2](#victor-update-2)
     - [Update #3](#victor-update-3)
+    - [Update #4](#victor-update-4)
+    - [Update #5](#victor-update-5)
 - [Voith](#voith)
     - [Update #1](#voith-update-1)
     - [Update #2](#voith-update-2)
     - [Update #3](#voith-update-3)
     - [Update #4](#voith-update-4)
     - [Update #5](#voith-update-5)
+    - [Update #6](#voith-update-6)
 - [Ying Tong](#ying-tong)
     - [Update #1](#ying-tong-update-1)
     - [Update #1](#ying-tong-update-2)
@@ -92,6 +101,10 @@ Development updates from [`adompeldorius`](https://github.com/adompeldorius)
 
 [https://hackmd.io/@albus/rJRfbIRft](https://hackmd.io/@albus/rJRfbIRft)
 
+### Albus: Update 4
+
+[https://hackmd.io/@albus/rJAnxRlVF](https://hackmd.io/@albus/rJAnxRlVF)
+
 ## Austin
 
 Development updates from [`austinlhx`](https://github.com/austinlhx)
@@ -102,6 +115,9 @@ https://hackmd.io/@austinlhx/HyJIZHqnd
 
 ### Austin: Update 2
 https://hackmd.io/@austinlhx/S117Kii2d
+
+### Austin: Update 3
+https://hackmd.io/@austinlhx/SJnGorRmF
 
 ## <a name="cheechyuan" /> Chee Chyuan
 
@@ -135,28 +151,9 @@ Development updates from [`jacobkaufmann`](https://github.com/jacobkaufmann)
 
 [Update 5](https://hackmd.io/dvgt2YrdRFa_qGFdChmsvQ)
 
-## Nhlanhla
+### <a name="jacob-update-6" /> Jacob: Update 6
 
-Development Updates from [`Nhlanhla`](https://github.com/NhlanhlaHasane)
-
-### Nhlanhla: [Updates](./notes/Nhlanhla.md)
-
-> - Ethereum SNAPSHOT Protocol from devp2p
-> - Istanbul, zkRollup, and Ethereum throughput limits: an analysis
-> - From zkRollup to accessible identities for all
-> - Create your first Zero-knowledge snark circuit using circom and snarkjs
-> - Markle trees: a visual introduction
-> - Sparse Merkle trees: a visual introduction
-> - Zero-Knowledge Proofs for Engineers: Introduction
-> - ZKPs for Engineers: A look at the Dark Forest ZKPs
-> - CHOOSING AN ETHEREUM CLIENT
-> - Ethereum Client 101
-> - Mastering Ethereum
-> - EIP1559 FAQ
-> - ETHEREUM VIRTUAL MACHINE
-> - Explaining core system Ethereum Virtual Machine
-> - This is a guide to understanding the EVM, its relationship with solidity, and how to use some debugging tools.
-> - Eth2 Updates
+[Update 6](https://hackmd.io/Q4Am2VWPR-qn8Lm9xDKAPg)
 
 
 ## Kolby
@@ -182,6 +179,10 @@ https://hackmd.io/nJEBr6OBRa6z4C4ZxOrf8w
 ### Kolby: Update 5
 
 https://hackmd.io/pcz_FSjlSWuGD-EML6hFEg
+
+### Kolby: Update 6
+
+https://hackmd.io/V2kK5kcIQs-pMhzjTplvwg
 
 ## Mike
 
@@ -210,6 +211,49 @@ Development updates from [Namra Patel](https://github.com/namrapatel)
 ### Namra: Update 1
 
 https://hackmd.io/SadmTvqlSWa6tVFcYa6wdA?view
+
+## Nhlanhla
+
+Development Updates from [`Nhlanhla`](https://github.com/NhlanhlaHasane)
+
+### Nhlanhla: [Updates](./notes/Nhlanhla.md)
+
+[Weekly update ( 24th September 2021 - 30th September 2021)](https://hackmd.io/@Nhlanhla/Hk8XqgJVF)
+
+> - Light Ethereum Subprotocol(LES) from devp2p
+
+[Weekly update ( 17th September 2021 - 23th September 2021)](https://hackmd.io/@Nhlanhla/HkIHa9r7K)
+
+> - Ethereum Wire Protocol from devp2p
+
+[Weekly update ( 10th September 2021 - 16th September 2021)](https://hackmd.io/@Nhlanhla/SJv3wnhMK)
+
+> - The RLPx Transport Protocol from devp2p
+
+[Weekly update ( 3rd September 2021 - 9th September 2021)](https://hackmd.io/@Nhlanhla/Bykc2YXGY)
+
+> - Ethereum SNAPSHOT Protocol from devp2p
+
+[Weekly update ( 27th August 2021 - 2nd September 2021)](https://hackmd.io/@Nhlanhla/BJVHIOibt)
+
+> - Guide to understanding the EVM, its relationship with solidity and how to use some debugging tools
+
+[Weekly Update ( from starting program until 26th August 2021)]()
+> - Istanbul, zkRollup, and Ethereum throughput limits: an analysis
+> - From zkRollup to accessible identities for all
+> - Create your first Zero-knowledge snark circuit using circom and snarkjs
+> - Markle trees: a visual introduction
+> - Sparse Merkle trees: a visual introduction
+> - Zero-Knowledge Proofs for Engineers: Introduction
+> - ZKPs for Engineers: A look at the Dark Forest ZKPs
+> - CHOOSING AN ETHEREUM CLIENT
+> - Ethereum Client 101
+> - Mastering Ethereum
+> - EIP1559 FAQ
+> - ETHEREUM VIRTUAL MACHINE
+> - Explaining core system Ethereum Virtual Machine
+> - This is a guide to understanding the EVM, its relationship with solidity, and how to use some debugging tools.
+> - Eth2 Updates
 
 ## Nicolas (Norswap)
 
@@ -281,6 +325,10 @@ Development updates from [`ogenev`](https://github.com/ogenev/)
 
 [Update 5](https://hackmd.io/@ogenev/HyNI0xBzF)
 
+### Ognyan: Update 6
+
+[Update 6](https://hackmd.io/@ogenev/HJHLG7s4K)
+
 ## Piper
 
 Development updates from [`pipermerriam`](https://github.com/pipermerriam/)
@@ -308,6 +356,25 @@ client implementations by 40%. Notes in
 
 https://hackmd.io/@potuz/rJX9iD30u
 
+### Potuz: Update 3
+
+Here are some things that I have been working in the last few weeks. Spent time
+diagnosing a problem that was costing money to large stakers on mainnet. This
+lead to Prysm's handling of pending attestation queue. The final design is in 
+
+https://hackmd.io/@potuz/B1yC3gFNY
+
+and the associated PRs for prysm are 
+
+https://github.com/prysmaticlabs/prysm/pull/9679
+https://github.com/prysmaticlabs/prysm/pull/9699
+
+Also started adding ARM assembly to [mammon's](https://github.com/potuz/mammon)
+hasher to export it as a library for prysm to use.
+
+https://github.com/prysmaticlabs/prysm/issues/9389
+
+
 ## Victor
 
 Development updates from [`new~weiv`](https://github.com/victor-wei126)
@@ -321,13 +388,19 @@ Development updates from [`new~weiv`](https://github.com/victor-wei126)
 ### Victor: Update 3
 [Update #3](https://hackmd.io/@6RDftSXaRAuyfQjhzN0Abw/S1vDyfufF)
 
+### Victor: Update 4
+[Update #4](https://hackmd.io/@6RDftSXaRAuyfQjhzN0Abw/Byn-cmNmY)
+
+### Victor: Update 5
+[#Update #5](https://hackmd.io/@6RDftSXaRAuyfQjhzN0Abw/Hk3uoZWBK)
+
 ## Voith
 
 Development updates from [`voith`](https://github.com/voith/)
 
 ### Voith: Update 1
 
-Implemented header verification in the `eth1-specs` repo.
+Implemented header verification in the `execution-specs` repo.
 
 https://hackmd.io/@voith/B1nMVxsJK
 
@@ -357,6 +430,13 @@ Implemented precompiled contracts as specified in the frontier version of the
 yellow paper in the `execution-specs` repo.
 
 https://hackmd.io/@voith/Skn2KDPzY
+
+### Voith: Update 6
+
+Got all `Frontier` state tests to pass and fixed all the bugs
+encountered while doing so.
+
+https://hackmd.io/@voith/BJx9M1UXY
 
 ## Ying Tong
 
