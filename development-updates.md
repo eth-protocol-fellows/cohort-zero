@@ -10,6 +10,7 @@
     - [Update #2](#albus-update-2)
     - [Update #3](#albus-update-3)
     - [Update #4](#albus-update-4)
+    - [Update #5](#albus-update-5)
 - [Austin](#austin)
     - [Update #1](#austin-update-1)
     - [Update #2](#austin-update-2)
@@ -103,6 +104,10 @@ Development updates from [`adompeldorius`](https://github.com/adompeldorius)
 ### Albus: Update 4
 
 [https://hackmd.io/@albus/rJAnxRlVF](https://hackmd.io/@albus/rJAnxRlVF)
+
+### Albus: Update 5
+
+[https://hackmd.io/@albus/S1E22SmBF](https://hackmd.io/@albus/S1E22SmBF)
 
 ## Austin
 
