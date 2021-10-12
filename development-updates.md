@@ -36,6 +36,7 @@
     - [Update #1](#mike-update-1)
     - [Update #2](#mike-update-2)
     - [Update #3](#mike-update-3)
+    - [Update #4](#mike-update-4)
 - [Namra](#namra)
     - [Update #1](#namra-update-1)
 - [Nhlanhla](#nhlanhla)
@@ -204,6 +205,10 @@ https://hackmd.io/@mikeferris/rkmPc4BzY
 ### Mike: Update 3
 
 https://hackmd.io/@mikeferris/SJ7jTHGmK
+
+### Mike: Update 4
+
+https://hackmd.io/@mikeferris/HyVNdabrF
 
 ## Namra
 
