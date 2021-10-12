@@ -46,6 +46,7 @@
     - [Update #3](#norswap-update-3)
     - [Update #4](#norswap-update-4)
     - [Update #5](#norswap-update-5)
+    - [Update #6](#norswap-update-6)
 - [Ognyan](#ognyan)
     - [Update #1](#ognyan-update-1)
     - [Update #2](#ognyan-update-2)
@@ -300,6 +301,13 @@ tl;dr: Implemented partial block validation in nanoeth, implemented Merkle trees
 update.](https://norswap.notion.site/Dev-Update-5-404512ed7ae844769a76a3c7df6b890e)
 
 tl;dr: Read on SNARKs & the beacon chain, finished Merkle tree implementation.
+
+### Norswap: Update 6
+
+[Link to
+update.](https://norswap.notion.site/Dev-Update-6-22c8c2a7236947f493c3e5f42252e717)
+
+tl;dr: Merkle proofs, Merkle tree revamp, implementing cryptography for Verkle trees.
 
 ## Ognyan
 
