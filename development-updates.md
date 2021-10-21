@@ -25,6 +25,7 @@
     - [Update #4](#jacob-update-4)
     - [Update #5](#jacob-update-5)
     - [Update #6](#jacob-update-6)
+    - [Update #7](#jacob-update-7)
 - [Kolby](#kolby)
     - [Update #1](#kolby-update-1)
     - [Update #2](#kolby-update-2)
@@ -161,6 +162,9 @@ Development updates from [`jacobkaufmann`](https://github.com/jacobkaufmann)
 
 [Update 6](https://hackmd.io/Q4Am2VWPR-qn8Lm9xDKAPg)
 
+### <a name="jacob-update-7" /> Jacob: Update 7
+
+[Update 7](https://hackmd.io/3L6KO8okSe2z4VT-dQPUJQ)
 
 ## Kolby
 
