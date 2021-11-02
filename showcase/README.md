@@ -4,6 +4,6 @@
 - Feel free to use [this as a template](./piper.md).
 - Add a link to your document to the TOC above in alphabetical order.
 
-## Candidate Showcases
+## Participant Showcases
 
 - [Piper (not actually for hire)](./piper.md)
