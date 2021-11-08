@@ -34,6 +34,7 @@
     - [Update #4](#kolby-update-4)
     - [Update #5](#kolby-update-5)
     - [Update #6](#kolby-update-6)
+    - [Update #7](#kolby-update-7) 
 - [Mike](#mike)
     - [Update #1](#mike-update-1)
     - [Update #2](#mike-update-2)
@@ -201,6 +202,10 @@ https://hackmd.io/pcz_FSjlSWuGD-EML6hFEg
 ### Kolby: Update 6
 
 https://hackmd.io/V2kK5kcIQs-pMhzjTplvwg
+
+### Kolby: Update 7
+
+https://hackmd.io/DN-mXxJZRi6dlrJM5mIXyw
 
 ## Mike
 
