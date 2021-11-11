@@ -6,4 +6,7 @@
 
 ## Participant Showcases
 
+- [Mohamed Mansour](./mohamedmansour.md)
+- [norswap](./norswap.md)
+- [Ognyan Genev](./ogenev.md)
 - [Piper (not actually for hire)](./piper.md)
