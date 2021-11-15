@@ -12,3 +12,4 @@
 - [norswap](./norswap.md)
 - [Ognyan Genev](./ogenev.md)
 - [Piper (not actually for hire)](./piper.md)
+- [Voith](./voith.md)
