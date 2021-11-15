@@ -6,6 +6,7 @@
 
 ## Participant Showcases
 
+- [Albus](./albus.md)
 - [Kolby ML](./kolbyml.md)
 - [Mohamed Mansour](./mohamedmansour.md)
 - [norswap](./norswap.md)
