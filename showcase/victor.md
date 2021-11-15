@@ -4,7 +4,7 @@
 - github: [`victor-wei126`](https://github.com/victor-wei126)
 - resume: [here](https://docs.google.com/document/d/1BjnfXWn4k0i6JE_pgymyfp39PLB7ZzrV3Y1jqhcHKzI/edit?usp=sharing)
 - location: Kirksville, Missouri
-- CDAP notes: [`./notes/piper.md`](./../notes/victor.md)
+- CDAP notes: [`./notes/victor.md`](./../notes/victor.md)
 
 ## About Me
 
