@@ -10,6 +10,7 @@
 - [Jacob Kaufmann](./jacob.md)
 - [Kolby ML](./kolbyml.md)
 - [Mohamed Mansour](./mohamedmansour.md)
+- [Nhlanhla Hasane](./Nhlanhla_Hasane.md)
 - [norswap](./norswap.md)
 - [Ognyan Genev](./ogenev.md)
 - [Peter Davies](./ultratwo.md)
