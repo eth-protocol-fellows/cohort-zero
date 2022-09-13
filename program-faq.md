@@ -4,7 +4,7 @@ Here are some frequently asked questions that may be useful.
 
 
 - **Will I learn to develop applications on the Ethereum blockchain?**
-    - No. This program is not focused on application development
+    - No. This program is not focused on any kind of application development. If you want to use Solidity or other kind of smart contract language, this is not a place for you. 
 - **I'm not able to commit to "full time" (aka 40 hours a week).  Can I still apply?**
     - Yes. There are no hard restrictions on how many hours you must put towards the program.  The amount of time you will need to invest is going to depend on your current level of knowledge and what project you choose to pursue.  It will likely be difficult to be successful in the program if you are unable to commit at least 20 hours per week.
 - **I don't know much about ______________.  Can I still apply?**
